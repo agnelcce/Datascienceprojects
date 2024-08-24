@@ -1,0 +1,975 @@
+user_id,date,steps,calories_burned,distance_km,active_minutes,sleep_hours,heart_rate_avg,workout_type,weather_conditions,location,mood
+2,01-01-2023,953,1787.73,14.04,454,2.0,76,Gym Workout,Clear,Gym,Happy
+2,01-01-2023,3383,2861.2,3.99,932,0.1,134,None,Fog,Home,Tired
+2,02-01-2023,14919,3088.94,9.99,945,5.5,67,Swimming,Snow,Park,Stressed
+2,03-01-2023,24117,2644.19,4.25,614,2.7,90,Walking,Fog,Park,Happy
+2,03-01-2023,5506,1595.03,1.98,358,5.2,118,Walking,Rain,Park,Happy
+2,05-01-2023,15373,2510.72,2.21,506,0.3,69,Gym Workout,Snow,Gym,Happy
+2,07-01-2023,727,2826.34,4.72,1034,7.3,151,Cycling,Snow,Office,Neutral
+2,07-01-2023,2659,2380.1,12.1,518,8.1,151,Yoga,Clear,Home,Happy
+2,07-01-2023,22283,3395.13,3.89,1166,9.8,155,Swimming,Rain,Park,Stressed
+2,08-01-2023,20599,2680.14,2.88,307,9.9,82,Swimming,Clear,Office,Tired
+2,08-01-2023,19769,2701.57,12.84,1333,0.4,167,Swimming,Clear,Other,Happy
+2,10-01-2023,10763,2069.54,1.35,871,0.8,104,Running,Fog,Home,Neutral
+2,11-01-2023,24200,3624.94,3.46,736,9.5,164,Swimming,Fog,Office,Happy
+2,11-01-2023,29630,1532.59,0.39,702,6.4,153,None,Clear,Office,Neutral
+2,13-01-2023,28750,3128.54,18.37,712,0.2,172,Running,Fog,Park,Stressed
+2,14-01-2023,23946,2186.96,4.95,294,7.2,75,None,Snow,Other,Tired
+2,14-01-2023,20931,2048.52,1.54,1345,8.5,143,Walking,Clear,Home,Tired
+2,14-01-2023,22203,3586.08,10.15,262,8.7,109,Walking,Clear,Park,Tired
+2,15-01-2023,23046,1524.34,4.28,1228,2.2,80,None,Fog,Office,Neutral
+2,15-01-2023,11771,2580.32,5.95,796,11.3,140,Yoga,Fog,Office,Stressed
+2,15-01-2023,21435,2255.23,6.99,456,7.4,113,Gym Workout,Rain,Office,Happy
+2,17-01-2023,18237,3840.18,16.83,575,7.1,103,Walking,Clear,Office,Stressed
+2,20-01-2023,5796,3978.74,19.39,843,11.6,104,Swimming,Rain,Park,Happy
+2,20-01-2023,10633,2847.54,12.57,126,7.2,66,Cycling,Snow,Office,Stressed
+2,21-01-2023,19207,3064.68,3.16,1286,8.1,87,None,Fog,Park,Tired
+2,21-01-2023,7004,3264.87,11.15,855,3.4,107,Walking,Fog,Office,Happy
+2,22-01-2023,9386,3434.51,2.09,1204,4.9,139,Cycling,Rain,Home,Neutral
+2,23-01-2023,24100,3766.41,18.09,87,3.5,147,Cycling,Fog,Gym,Stressed
+2,24-01-2023,1730,3244.2,0.36,360,1.3,98,Gym Workout,Snow,Office,Tired
+2,25-01-2023,18792,2376.99,12.76,1335,11.6,147,Cycling,Clear,Other,Happy
+2,26-01-2023,2150,2079.1,15.73,340,6.7,91,None,Snow,Office,Stressed
+2,27-01-2023,25785,3354.25,1.61,1026,7.0,67,Swimming,Snow,Gym,Tired
+2,30-01-2023,17284,3862.44,14.01,910,0.4,73,Gym Workout,Clear,Home,Neutral
+2,31-01-2023,24290,3864.28,18.86,931,8.8,70,None,Snow,Office,Neutral
+2,31-01-2023,5408,3576.69,2.09,261,2.2,65,Yoga,Fog,Other,Neutral
+2,01-02-2023,14016,3491.59,12.34,217,9.5,158,Swimming,Clear,Office,Tired
+2,02-02-2023,25689,2760.39,10.77,689,6.9,150,Yoga,Fog,Park,Tired
+2,03-02-2023,8938,2022.91,8.95,577,8.0,66,Swimming,Fog,Park,Happy
+2,04-02-2023,8213,3418.46,12.28,996,5.1,111,Gym Workout,Rain,Park,Happy
+2,04-02-2023,25922,3122.28,4.12,1359,11.5,140,Walking,Fog,Home,Neutral
+2,06-02-2023,13406,3691.66,2.63,1189,11.0,70,Running,Clear,Home,Happy
+2,07-02-2023,9767,3039.2,13.42,492,11.0,92,Cycling,Clear,Park,Happy
+2,07-02-2023,29624,2350.42,19.19,1218,4.4,165,Running,Rain,Park,Tired
+2,07-02-2023,1560,2603.78,2.49,450,7.1,68,Gym Workout,Rain,Office,Tired
+2,07-02-2023,19041,2296.66,6.84,895,4.1,68,Swimming,Snow,Park,Tired
+2,07-02-2023,29896,2103.28,7.47,20,6.4,176,Running,Fog,Park,Neutral
+2,08-02-2023,3801,2532.81,9.99,1352,10.6,85,Yoga,Clear,Other,Tired
+2,09-02-2023,9609,1769.41,4.09,783,1.8,70,Cycling,Fog,Park,Happy
+2,11-02-2023,27193,3007.87,17.01,1186,9.0,149,Walking,Rain,Office,Neutral
+2,11-02-2023,20763,3550.46,14.96,494,4.0,172,Swimming,Clear,Other,Happy
+2,12-02-2023,19197,1558.09,14.74,963,0.7,89,Swimming,Snow,Other,Neutral
+2,12-02-2023,18076,2852.06,4.85,186,9.8,73,Swimming,Rain,Other,Stressed
+2,13-02-2023,14765,3236.68,11.33,367,7.8,149,Gym Workout,Rain,Office,Neutral
+2,19-02-2023,21075,2056.86,8.2,847,9.6,174,Cycling,Snow,Other,Neutral
+2,20-02-2023,18987,2457.82,4.67,128,10.1,155,Swimming,Fog,Park,Neutral
+2,20-02-2023,13899,2874.22,13.48,132,10.0,118,Swimming,Rain,Office,Happy
+2,21-02-2023,28601,3354.73,9.46,404,3.9,65,None,Snow,Home,Happy
+2,22-02-2023,4055,1955.09,5.37,665,7.1,115,Yoga,Rain,Office,Stressed
+2,24-02-2023,17957,2132.28,14.76,1394,0.2,73,Walking,Rain,Gym,Happy
+2,24-02-2023,6703,1979.98,12.57,791,3.2,153,Walking,Snow,Office,Stressed
+2,25-02-2023,11530,1999.24,1.02,544,6.2,174,None,Snow,Park,Tired
+2,25-02-2023,6506,2015.29,16.94,642,3.7,157,Cycling,Clear,Home,Neutral
+2,01-03-2023,28124,2951.78,9.91,442,4.5,175,Cycling,Fog,Office,Tired
+2,02-03-2023,907,1636.93,5.31,490,8.5,111,Yoga,Snow,Office,Stressed
+2,02-03-2023,13873,2366.0,2.91,70,8.2,102,None,Rain,Home,Stressed
+2,03-03-2023,29355,2451.41,6.76,1191,4.1,146,Gym Workout,Clear,Other,Tired
+2,04-03-2023,9250,1609.33,4.55,536,4.0,158,Gym Workout,Rain,Park,Happy
+2,04-03-2023,27960,3676.62,15.32,1381,4.3,151,Cycling,Rain,Home,Stressed
+2,05-03-2023,23598,1629.1,5.65,61,1.2,85,Swimming,Snow,Gym,Stressed
+2,06-03-2023,20167,2906.48,15.05,712,3.4,163,Yoga,Fog,Other,Tired
+2,07-03-2023,22258,3552.82,13.71,1168,3.1,131,Cycling,Clear,Home,Stressed
+2,08-03-2023,5312,1545.74,0.08,591,9.6,80,Walking,Snow,Home,Stressed
+2,08-03-2023,8124,2785.96,7.83,843,10.1,122,Yoga,Clear,Park,Stressed
+2,09-03-2023,11895,3323.33,12.42,1419,5.0,172,Running,Clear,Park,Tired
+2,11-03-2023,27589,3495.09,4.75,438,6.7,68,Walking,Snow,Park,Happy
+2,12-03-2023,6411,2108.23,17.34,165,5.6,74,Yoga,Snow,Other,Neutral
+2,12-03-2023,20783,3391.19,12.64,1128,3.3,164,Cycling,Rain,Home,Stressed
+2,12-03-2023,29807,3894.69,2.35,775,11.0,166,Walking,Fog,Gym,Neutral
+2,14-03-2023,23509,3417.29,3.67,667,2.0,133,None,Clear,Park,Tired
+2,16-03-2023,24334,3122.01,19.77,1231,1.7,85,Swimming,Fog,Gym,Happy
+2,16-03-2023,24291,1817.34,19.31,159,5.2,74,Walking,Snow,Home,Stressed
+2,16-03-2023,6210,2030.93,6.41,330,5.3,144,Gym Workout,Snow,Office,Stressed
+2,17-03-2023,12132,3435.69,5.45,812,6.4,93,Yoga,Fog,Gym,Stressed
+2,17-03-2023,10457,1561.51,12.79,771,4.5,79,Gym Workout,Fog,Home,Happy
+2,17-03-2023,17049,3834.45,6.03,23,7.4,179,Cycling,Clear,Gym,Stressed
+2,17-03-2023,19437,2365.39,17.32,1402,0.7,79,None,Snow,Park,Happy
+2,18-03-2023,232,2143.65,7.79,99,6.1,84,Gym Workout,Snow,Other,Neutral
+2,20-03-2023,1619,1766.31,7.48,925,7.6,70,Gym Workout,Snow,Other,Neutral
+2,22-03-2023,28907,2674.58,14.22,105,6.1,80,Swimming,Clear,Office,Tired
+2,26-03-2023,24198,3419.54,17.18,1155,3.9,167,None,Snow,Home,Neutral
+2,27-03-2023,5771,3359.74,4.67,1114,5.7,112,Running,Clear,Home,Tired
+2,27-03-2023,28234,2662.14,16.13,1072,8.5,145,Cycling,Snow,Home,Tired
+2,28-03-2023,19387,2356.38,1.25,712,6.9,125,Running,Fog,Gym,Neutral
+2,30-03-2023,3436,3308.99,13.7,311,7.2,72,Walking,Clear,Office,Happy
+2,01-04-2023,2571,2297.11,6.44,906,9.7,89,Walking,Snow,Home,Stressed
+2,03-04-2023,10544,3247.8,16.89,114,11.7,112,Walking,Fog,Office,Stressed
+2,03-04-2023,17387,1542.28,5.66,753,2.7,67,Cycling,Rain,Home,Stressed
+2,03-04-2023,12577,3065.39,15.56,509,5.2,129,Yoga,Rain,Park,Happy
+2,03-04-2023,25238,3708.4,17.63,413,6.5,144,Walking,Fog,Other,Happy
+2,04-04-2023,29094,1979.42,6.82,599,6.5,115,Yoga,Clear,Gym,Happy
+2,06-04-2023,20077,3899.15,7.3,1099,9.9,124,Yoga,Clear,Home,Stressed
+2,07-04-2023,16316,3923.75,14.18,1040,1.0,103,Gym Workout,Clear,Park,Tired
+2,07-04-2023,17182,3615.52,0.66,825,6.8,121,Running,Fog,Gym,Stressed
+2,09-04-2023,13270,2471.47,1.31,525,11.3,121,Yoga,Fog,Gym,Tired
+2,11-04-2023,18793,3261.03,1.16,1427,11.5,113,Cycling,Fog,Office,Stressed
+2,11-04-2023,10105,3097.97,0.01,569,1.4,159,None,Rain,Other,Happy
+2,12-04-2023,22255,3626.7,12.43,1007,9.4,122,Yoga,Fog,Park,Stressed
+2,14-04-2023,331,2244.9,11.9,631,2.9,61,Gym Workout,Snow,Park,Stressed
+2,16-04-2023,25852,2568.18,5.44,1200,4.7,94,Walking,Snow,Office,Stressed
+2,16-04-2023,6933,1988.5,6.13,938,4.7,159,Running,Fog,Office,Tired
+2,17-04-2023,19769,2322.47,6.88,1421,9.8,141,Running,Snow,Gym,Stressed
+2,17-04-2023,10260,2293.26,1.32,825,2.8,103,None,Rain,Park,Happy
+2,17-04-2023,8363,3464.67,8.41,1145,0.1,145,Swimming,Snow,Home,Stressed
+2,17-04-2023,9140,2527.46,3.13,1293,7.6,157,Cycling,Rain,Home,Stressed
+2,18-04-2023,14671,3909.0,16.23,917,7.7,139,Running,Fog,Office,Happy
+2,18-04-2023,19311,1929.42,17.78,466,8.8,84,Swimming,Rain,Other,Stressed
+2,19-04-2023,184,2600.86,2.48,1333,10.1,178,Yoga,Clear,Park,Neutral
+2,19-04-2023,19091,1784.15,2.07,1394,0.8,178,None,Snow,Gym,Stressed
+2,22-04-2023,9380,2939.32,0.96,794,5.8,171,Cycling,Fog,Home,Stressed
+2,23-04-2023,22434,3989.17,10.51,155,8.7,137,Running,Rain,Home,Happy
+2,24-04-2023,9636,3422.45,18.33,1388,10.8,127,Gym Workout,Fog,Gym,Neutral
+2,25-04-2023,9036,3844.86,4.82,90,10.7,115,None,Snow,Office,Stressed
+2,26-04-2023,17692,2183.74,11.31,403,6.2,74,None,Clear,Gym,Happy
+2,29-04-2023,16431,2655.37,19.63,423,6.3,61,Walking,Snow,Gym,Stressed
+2,30-04-2023,16543,2545.31,12.87,442,4.7,168,Gym Workout,Fog,Gym,Stressed
+2,01-05-2023,17664,2052.29,19.37,99,7.2,99,Yoga,Fog,Office,Stressed
+2,01-05-2023,25325,3718.44,6.65,1212,1.3,155,Gym Workout,Fog,Gym,Happy
+2,02-05-2023,7090,3977.48,15.23,476,3.5,136,None,Fog,Park,Stressed
+2,05-05-2023,18664,2801.18,10.57,535,1.3,163,Walking,Snow,Park,Neutral
+2,06-05-2023,15577,3525.9,2.02,996,9.8,120,Yoga,Rain,Home,Tired
+2,07-05-2023,6225,2331.96,15.01,1259,9.3,76,Running,Fog,Park,Stressed
+2,07-05-2023,23678,2381.77,12.81,174,11.1,176,Walking,Clear,Office,Happy
+2,07-05-2023,23055,3392.34,11.75,632,10.0,101,None,Snow,Other,Happy
+2,10-05-2023,16054,1764.17,0.27,1088,6.0,138,Running,Fog,Other,Tired
+2,11-05-2023,148,2692.9,7.67,57,5.8,67,Running,Rain,Park,Tired
+2,11-05-2023,28121,2473.9,16.65,1113,3.6,163,Yoga,Snow,Office,Stressed
+2,12-05-2023,27850,3868.28,1.14,292,12.0,158,Running,Clear,Gym,Tired
+2,12-05-2023,2833,3689.81,15.94,165,5.3,74,Running,Fog,Gym,Happy
+2,13-05-2023,11182,2718.54,4.6,425,5.6,112,Yoga,Snow,Park,Happy
+2,13-05-2023,23522,3184.76,14.62,1180,10.9,65,None,Fog,Other,Tired
+2,14-05-2023,25274,2165.92,4.19,706,7.9,100,Yoga,Snow,Other,Happy
+2,14-05-2023,13757,2064.51,1.28,63,7.5,70,Cycling,Rain,Park,Neutral
+2,15-05-2023,12735,2969.6,2.85,1101,5.9,127,Swimming,Snow,Other,Happy
+2,16-05-2023,13185,3054.29,8.84,489,11.3,147,None,Rain,Home,Happy
+2,17-05-2023,28089,2545.75,16.18,1053,2.9,107,Gym Workout,Clear,Other,Neutral
+2,18-05-2023,22824,2805.96,16.14,1351,1.9,126,Cycling,Snow,Office,Neutral
+2,18-05-2023,4228,2730.46,0.61,606,11.8,73,None,Fog,Office,Tired
+2,19-05-2023,3135,3534.5,3.91,981,9.9,149,Gym Workout,Snow,Other,Stressed
+2,21-05-2023,14515,3882.0,18.38,603,11.1,176,Yoga,Snow,Park,Happy
+2,21-05-2023,6503,2279.38,0.36,1069,4.8,175,Running,Snow,Other,Tired
+2,22-05-2023,11607,3916.96,18.65,987,8.4,104,None,Rain,Home,Neutral
+2,22-05-2023,6265,2948.46,15.61,208,9.0,159,Walking,Rain,Park,Tired
+2,28-05-2023,1031,2955.47,10.91,1068,7.3,111,None,Clear,Other,Stressed
+2,29-05-2023,19177,2115.7,19.33,1317,11.6,150,Yoga,Rain,Other,Stressed
+2,29-05-2023,7155,3279.82,12.99,65,6.8,147,Swimming,Clear,Office,Happy
+2,01-06-2023,12066,2162.32,3.43,892,1.0,70,Yoga,Rain,Park,Neutral
+2,02-06-2023,9116,2287.18,15.29,380,3.1,122,Gym Workout,Clear,Office,Stressed
+2,05-06-2023,27047,2137.06,9.67,1038,12.0,131,None,Clear,Gym,Tired
+2,07-06-2023,24579,2198.69,8.82,1050,9.7,84,Cycling,Clear,Gym,Tired
+2,09-06-2023,1662,1963.35,0.1,377,3.6,115,Cycling,Rain,Home,Happy
+2,09-06-2023,9667,2094.33,13.99,1090,4.8,106,Gym Workout,Rain,Home,Tired
+2,10-06-2023,2593,2787.83,11.92,685,5.2,60,Swimming,Clear,Gym,Neutral
+2,12-06-2023,16135,3522.52,10.0,73,9.1,123,Yoga,Rain,Home,Neutral
+2,12-06-2023,29866,3038.53,2.58,1305,6.5,107,Running,Clear,Gym,Neutral
+2,12-06-2023,15577,1592.39,10.89,1128,8.9,165,Swimming,Fog,Park,Stressed
+2,12-06-2023,18582,3000.08,1.13,110,8.9,77,None,Fog,Park,Neutral
+2,15-06-2023,3058,2583.22,17.56,632,5.5,118,Running,Fog,Home,Neutral
+2,16-06-2023,20809,3770.82,15.3,723,3.9,159,Running,Rain,Home,Tired
+2,17-06-2023,8740,2811.78,3.42,209,7.3,71,None,Fog,Gym,Stressed
+2,17-06-2023,10526,3381.16,18.49,189,4.6,151,Gym Workout,Rain,Office,Stressed
+2,19-06-2023,17525,3633.95,7.02,1407,2.7,149,None,Rain,Gym,Tired
+2,20-06-2023,22840,2510.39,2.18,1152,2.8,120,Running,Clear,Office,Neutral
+2,24-06-2023,24745,3610.75,15.98,356,1.4,163,Swimming,Snow,Home,Tired
+2,26-06-2023,26659,1697.25,11.95,599,1.6,156,Running,Fog,Gym,Neutral
+2,28-06-2023,8244,2239.83,2.06,246,11.1,141,Running,Rain,Park,Stressed
+2,29-06-2023,17670,2989.49,7.91,1305,9.1,125,Walking,Fog,Gym,Stressed
+2,29-06-2023,28937,1944.63,1.37,208,9.5,71,Running,Rain,Park,Stressed
+2,29-06-2023,6669,3915.66,2.07,1415,6.0,70,Walking,Rain,Other,Happy
+2,30-06-2023,15306,3921.04,3.7,618,3.8,124,Cycling,Snow,Office,Stressed
+2,30-06-2023,5515,1790.81,16.57,140,0.6,70,Walking,Rain,Other,Tired
+2,02-07-2023,571,2348.09,0.84,1097,5.1,102,None,Rain,Home,Neutral
+2,03-07-2023,18985,3053.46,2.69,176,7.0,107,Yoga,Clear,Park,Neutral
+2,03-07-2023,15936,3417.05,19.51,556,0.7,110,Walking,Snow,Park,Happy
+2,04-07-2023,18976,3001.27,8.96,853,0.2,98,Yoga,Rain,Park,Stressed
+2,07-07-2023,17454,2745.26,2.78,312,7.3,77,Swimming,Fog,Park,Neutral
+2,08-07-2023,4383,2638.82,9.96,1437,4.7,156,Yoga,Rain,Other,Neutral
+2,10-07-2023,24877,2599.19,19.61,110,1.3,140,None,Clear,Park,Neutral
+2,16-07-2023,6276,3014.76,2.63,110,5.9,79,None,Rain,Other,Stressed
+2,16-07-2023,3890,1777.77,8.44,1103,9.4,139,Walking,Clear,Office,Neutral
+2,17-07-2023,7044,3734.81,19.57,1122,9.6,161,Running,Rain,Office,Neutral
+2,19-07-2023,2425,3130.84,7.37,1320,3.3,136,Cycling,Clear,Other,Tired
+2,20-07-2023,22393,3158.35,15.92,1106,3.9,146,Gym Workout,Rain,Other,Stressed
+2,21-07-2023,8621,2880.77,7.29,793,0.4,88,Gym Workout,Fog,Home,Happy
+2,22-07-2023,2587,1834.65,19.63,944,0.5,102,None,Rain,Gym,Happy
+2,22-07-2023,15657,1659.14,11.42,681,6.6,171,Walking,Fog,Office,Happy
+2,23-07-2023,27878,2065.13,18.49,594,0.2,129,Walking,Fog,Home,Tired
+2,24-07-2023,12846,3791.45,14.68,1355,1.8,121,Gym Workout,Snow,Office,Tired
+2,25-07-2023,10651,3730.07,17.36,631,3.3,81,Gym Workout,Snow,Gym,Happy
+2,25-07-2023,11668,3126.05,8.31,1222,1.7,161,None,Rain,Office,Happy
+2,26-07-2023,13051,3753.35,10.83,963,10.3,100,Running,Rain,Park,Happy
+2,26-07-2023,219,3527.85,10.52,1341,1.3,171,Cycling,Fog,Office,Neutral
+2,28-07-2023,26255,3588.43,11.72,1097,6.5,99,Running,Fog,Gym,Tired
+2,28-07-2023,12989,2135.52,13.53,307,2.7,74,Running,Clear,Park,Tired
+2,28-07-2023,28836,2494.96,8.73,1326,11.0,106,Swimming,Clear,Other,Neutral
+2,30-07-2023,3556,2584.4,14.52,858,5.3,113,Yoga,Fog,Gym,Stressed
+2,02-08-2023,28130,3514.73,6.85,953,8.9,71,None,Clear,Office,Stressed
+2,04-08-2023,6898,2040.92,8.22,87,8.0,178,Yoga,Fog,Other,Happy
+2,09-08-2023,20197,3052.77,6.33,643,4.7,72,Cycling,Fog,Park,Stressed
+2,12-08-2023,22672,3756.27,9.3,192,6.3,63,Running,Fog,Office,Neutral
+2,12-08-2023,3683,1721.1,9.84,526,4.5,73,Cycling,Fog,Gym,Tired
+2,13-08-2023,10316,2548.26,15.88,1232,10.7,114,Cycling,Snow,Park,Stressed
+2,15-08-2023,25319,1567.47,11.83,292,2.7,157,Cycling,Fog,Park,Happy
+2,15-08-2023,12001,2052.6,13.82,414,6.5,155,Walking,Rain,Office,Tired
+2,15-08-2023,4122,1976.44,8.03,752,0.9,157,Yoga,Clear,Other,Happy
+2,15-08-2023,28170,3362.3,2.02,1186,6.1,144,Walking,Rain,Home,Stressed
+2,16-08-2023,6537,2563.23,9.73,915,5.8,136,Yoga,Fog,Park,Tired
+2,17-08-2023,26894,2286.92,2.12,19,9.9,96,Gym Workout,Snow,Gym,Neutral
+2,20-08-2023,7252,3967.63,8.74,95,3.6,125,Swimming,Fog,Home,Stressed
+2,21-08-2023,18632,3469.03,2.68,124,7.1,63,Walking,Clear,Home,Happy
+2,21-08-2023,51,2122.74,0.78,477,4.1,141,Running,Rain,Other,Stressed
+2,23-08-2023,8418,3985.67,0.22,784,5.3,162,Gym Workout,Clear,Other,Happy
+2,23-08-2023,22009,2641.65,0.86,0,9.8,178,Cycling,Snow,Office,Tired
+2,24-08-2023,16480,3840.56,11.44,881,5.5,96,Cycling,Fog,Park,Neutral
+2,26-08-2023,19379,3584.66,2.11,471,5.2,149,Cycling,Snow,Park,Happy
+2,26-08-2023,27283,1562.3,14.52,938,10.6,101,Cycling,Fog,Gym,Neutral
+2,28-08-2023,10946,3592.53,0.42,1428,8.5,112,None,Rain,Gym,Stressed
+2,28-08-2023,23965,1763.4,19.45,898,4.1,169,Walking,Fog,Office,Neutral
+2,30-08-2023,8268,2492.55,17.34,161,11.3,108,Yoga,Rain,Park,Happy
+2,30-08-2023,3224,1895.36,14.96,946,3.6,154,Gym Workout,Clear,Home,Stressed
+2,31-08-2023,18148,3524.82,17.17,651,2.7,83,Running,Fog,Gym,Tired
+2,31-08-2023,15105,2826.96,2.27,1371,7.5,110,None,Snow,Other,Neutral
+2,01-09-2023,12393,2042.58,14.63,291,10.7,105,Cycling,Clear,Other,Tired
+2,01-09-2023,15568,3176.41,19.95,1126,5.0,67,Running,Clear,Gym,Neutral
+2,02-09-2023,960,3246.41,5.38,247,1.7,127,Walking,Fog,Home,Tired
+2,04-09-2023,26178,2322.44,5.94,1239,6.7,107,Cycling,Rain,Office,Tired
+2,04-09-2023,19670,2556.47,4.02,617,1.2,124,Cycling,Rain,Home,Tired
+2,05-09-2023,4110,3029.99,15.22,847,11.7,62,Gym Workout,Fog,Home,Neutral
+2,05-09-2023,26357,2406.69,3.93,249,4.6,77,Swimming,Snow,Park,Tired
+2,06-09-2023,24914,1876.85,16.76,1193,0.4,90,Running,Fog,Gym,Stressed
+2,10-09-2023,24411,3873.88,19.8,1231,10.4,130,Yoga,Snow,Park,Happy
+2,10-09-2023,2640,2417.58,3.08,447,5.9,114,Swimming,Fog,Office,Stressed
+2,10-09-2023,28907,2525.37,7.74,1307,1.3,66,None,Rain,Office,Happy
+2,11-09-2023,20519,2117.88,9.35,1421,12.0,152,Yoga,Clear,Park,Happy
+2,11-09-2023,22954,2417.98,8.5,871,9.4,108,Swimming,Snow,Gym,Tired
+2,13-09-2023,16391,3835.52,18.1,73,5.8,99,None,Rain,Office,Tired
+2,13-09-2023,15845,3911.79,9.66,216,4.7,86,Cycling,Rain,Park,Happy
+2,14-09-2023,17288,3217.11,11.25,1280,9.0,94,Gym Workout,Clear,Gym,Stressed
+2,15-09-2023,13615,2488.26,18.43,773,4.5,104,Cycling,Fog,Other,Tired
+2,15-09-2023,20426,2033.4,15.68,501,9.9,111,Running,Rain,Home,Stressed
+2,17-09-2023,21804,3449.43,19.17,386,11.9,124,Yoga,Snow,Other,Neutral
+2,17-09-2023,1947,3096.97,7.08,349,0.6,71,None,Snow,Park,Happy
+2,18-09-2023,27372,3237.6,5.79,954,2.7,146,None,Snow,Home,Stressed
+2,18-09-2023,18373,2126.79,1.39,1107,3.8,121,Swimming,Clear,Gym,Neutral
+2,20-09-2023,12885,2807.96,19.16,939,10.9,169,Walking,Fog,Other,Neutral
+2,20-09-2023,14162,3937.94,0.17,143,12.0,86,None,Snow,Park,Neutral
+2,21-09-2023,15244,3530.3,10.94,998,2.7,63,Swimming,Clear,Park,Tired
+2,21-09-2023,2673,3341.05,10.58,610,4.1,65,Walking,Snow,Home,Tired
+2,22-09-2023,26560,2268.22,15.41,830,2.3,172,None,Fog,Office,Stressed
+2,22-09-2023,14069,2020.1,19.29,734,5.9,170,Gym Workout,Snow,Home,Neutral
+2,23-09-2023,19723,2543.16,9.9,679,3.2,131,Cycling,Snow,Office,Neutral
+2,25-09-2023,25612,1833.41,11.81,681,5.1,126,Swimming,Rain,Office,Neutral
+2,27-09-2023,14730,3298.79,11.8,857,5.8,75,Gym Workout,Fog,Home,Happy
+2,02-10-2023,77,2609.22,12.42,866,4.3,73,Running,Fog,Gym,Tired
+2,02-10-2023,6824,3117.1,7.59,551,4.2,119,Walking,Fog,Office,Stressed
+2,04-10-2023,9055,2382.06,12.32,1013,9.6,140,Cycling,Snow,Home,Happy
+2,05-10-2023,27783,3686.46,3.58,594,10.7,100,None,Clear,Other,Tired
+2,06-10-2023,17870,2947.14,19.2,182,7.3,165,Cycling,Fog,Home,Stressed
+2,09-10-2023,142,2796.08,7.8,1392,6.9,88,Yoga,Rain,Home,Stressed
+2,09-10-2023,7129,1930.48,1.38,578,9.1,76,Cycling,Fog,Home,Tired
+2,10-10-2023,27040,3103.54,15.31,313,9.2,172,Yoga,Clear,Gym,Neutral
+2,10-10-2023,17012,2545.78,15.79,174,10.0,111,Cycling,Clear,Other,Stressed
+2,12-10-2023,4072,2217.47,3.46,722,3.0,172,Gym Workout,Rain,Gym,Neutral
+2,12-10-2023,2030,3496.03,13.02,0,0.9,106,Swimming,Snow,Home,Neutral
+2,12-10-2023,20568,3049.18,11.25,1300,4.5,156,None,Fog,Home,Tired
+2,13-10-2023,19905,1699.55,13.34,581,5.1,133,Cycling,Snow,Home,Tired
+2,16-10-2023,10933,2002.51,0.37,1030,7.4,124,Running,Snow,Gym,Stressed
+2,17-10-2023,19480,3759.26,16.12,983,0.0,127,Walking,Rain,Park,Tired
+2,18-10-2023,21859,2633.92,17.89,237,11.6,85,Yoga,Rain,Park,Neutral
+2,19-10-2023,20975,2904.25,15.38,965,1.8,62,Running,Fog,Other,Tired
+2,20-10-2023,18556,3815.74,3.21,632,4.8,147,Running,Clear,Other,Stressed
+2,25-10-2023,15902,3198.97,4.95,516,2.1,177,Running,Rain,Office,Neutral
+2,26-10-2023,16571,2080.43,17.4,982,3.4,120,Yoga,Clear,Park,Tired
+2,28-10-2023,17574,1911.63,4.41,1121,3.3,92,Gym Workout,Clear,Park,Stressed
+2,31-10-2023,11565,2062.88,14.37,670,7.6,109,Cycling,Fog,Home,Tired
+2,01-11-2023,17827,1835.58,17.87,980,6.3,74,Gym Workout,Snow,Office,Tired
+2,01-11-2023,10446,2912.46,18.04,966,2.3,79,Walking,Fog,Home,Happy
+2,02-11-2023,24752,3570.0,0.2,498,0.8,131,Yoga,Clear,Other,Tired
+2,03-11-2023,18929,1730.07,0.83,116,10.7,67,Running,Rain,Other,Happy
+2,03-11-2023,20433,2955.09,8.75,140,6.0,69,Walking,Fog,Office,Stressed
+2,04-11-2023,578,1668.59,11.97,590,10.1,80,Cycling,Rain,Other,Tired
+2,04-11-2023,14391,3406.62,6.54,124,8.1,87,Gym Workout,Clear,Other,Happy
+2,06-11-2023,141,1560.55,19.42,511,7.2,73,Swimming,Clear,Park,Tired
+2,07-11-2023,20594,3946.37,7.03,1283,6.4,105,Cycling,Clear,Park,Stressed
+2,07-11-2023,26563,3010.98,11.26,543,11.0,96,Walking,Snow,Office,Happy
+2,07-11-2023,6047,3821.24,14.88,984,7.7,137,Swimming,Snow,Home,Stressed
+2,08-11-2023,22630,2055.5,6.15,986,0.3,80,Swimming,Fog,Other,Neutral
+2,08-11-2023,11542,2973.06,7.04,202,4.4,129,Walking,Snow,Home,Happy
+2,13-11-2023,17871,2157.68,14.95,468,6.2,126,Running,Fog,Other,Tired
+2,13-11-2023,14670,1583.14,12.45,79,6.3,166,Cycling,Fog,Home,Happy
+2,14-11-2023,29945,2168.95,6.04,154,8.4,60,Running,Rain,Gym,Neutral
+2,15-11-2023,14791,3692.4,0.75,606,7.1,170,Walking,Clear,Park,Neutral
+2,15-11-2023,14926,1538.97,8.84,595,11.5,92,Swimming,Clear,Home,Neutral
+2,16-11-2023,25130,1867.61,13.03,1353,11.0,66,Yoga,Clear,Office,Happy
+2,17-11-2023,20527,1903.82,16.17,451,10.0,162,Walking,Rain,Home,Tired
+2,17-11-2023,6752,2769.35,11.82,743,6.8,88,None,Rain,Park,Tired
+2,17-11-2023,24062,2383.45,12.15,1290,6.1,166,None,Clear,Other,Happy
+2,18-11-2023,18820,2780.03,6.64,230,1.4,110,Walking,Fog,Home,Happy
+2,18-11-2023,28115,2481.22,6.15,214,0.9,81,Walking,Rain,Park,Stressed
+2,19-11-2023,7980,3982.66,10.59,198,9.9,72,Yoga,Clear,Gym,Tired
+2,20-11-2023,5791,2162.76,3.67,702,4.4,88,Swimming,Rain,Home,Neutral
+2,20-11-2023,8711,1550.57,18.9,1105,3.7,131,Swimming,Clear,Other,Happy
+2,23-11-2023,23155,3121.57,14.07,1069,1.3,94,Yoga,Fog,Gym,Stressed
+2,24-11-2023,27867,2358.8,13.55,289,6.7,136,Yoga,Clear,Home,Happy
+2,24-11-2023,28555,3275.97,19.27,221,4.7,87,Gym Workout,Fog,Office,Happy
+2,24-11-2023,7938,2230.97,14.27,769,4.1,138,Walking,Fog,Park,Neutral
+2,25-11-2023,7674,3515.53,0.51,369,6.6,73,Walking,Fog,Home,Happy
+2,25-11-2023,22795,2419.37,7.37,616,7.4,61,Walking,Rain,Park,Neutral
+2,25-11-2023,14693,1949.18,8.66,932,2.3,78,Gym Workout,Clear,Gym,Happy
+2,26-11-2023,12034,3381.84,9.36,1396,1.2,139,Gym Workout,Fog,Office,Tired
+2,27-11-2023,6227,1871.67,3.09,3,0.2,95,Gym Workout,Rain,Home,Stressed
+2,27-11-2023,15760,3476.88,16.63,318,11.3,146,Cycling,Clear,Park,Tired
+2,28-11-2023,21307,2928.14,10.28,232,10.8,179,Running,Rain,Park,Happy
+2,29-11-2023,11312,1608.27,1.65,1136,10.7,60,Yoga,Rain,Gym,Neutral
+2,29-11-2023,555,2640.11,1.82,254,11.9,159,Yoga,Snow,Gym,Stressed
+2,01-12-2023,3976,1654.75,17.17,762,7.4,69,Walking,Clear,Park,Happy
+2,01-12-2023,19381,2638.84,11.01,959,5.5,165,Yoga,Fog,Office,Tired
+2,02-12-2023,28132,1557.0,4.81,516,1.7,119,Swimming,Fog,Gym,Neutral
+2,04-12-2023,25438,3962.5,11.48,1407,11.9,75,Gym Workout,Snow,Office,Happy
+2,05-12-2023,23184,2611.22,14.91,773,3.5,97,None,Rain,Gym,Neutral
+2,06-12-2023,11522,2656.25,0.01,161,8.1,175,Swimming,Rain,Office,Stressed
+2,06-12-2023,6747,3748.94,0.05,822,6.6,173,Yoga,Fog,Gym,Happy
+2,06-12-2023,2903,2906.29,6.3,93,8.9,155,Cycling,Snow,Other,Neutral
+2,09-12-2023,5431,1659.03,9.91,45,10.4,124,Gym Workout,Clear,Office,Happy
+2,13-12-2023,1149,2868.55,14.37,850,7.3,164,Walking,Snow,Gym,Neutral
+2,14-12-2023,14958,2121.47,8.16,1386,5.5,147,Walking,Snow,Home,Stressed
+2,14-12-2023,19431,2861.54,11.32,1057,2.1,111,Yoga,Snow,Home,Tired
+2,17-12-2023,22499,2149.18,5.62,530,6.6,88,Running,Fog,Home,Happy
+2,24-12-2023,157,2343.35,6.96,273,3.6,72,None,Clear,Park,Stressed
+2,25-12-2023,1492,1895.05,12.92,44,3.3,67,Yoga,Fog,Park,Stressed
+2,27-12-2023,24226,3013.4,8.85,65,9.1,118,Running,Rain,Other,Happy
+2,28-12-2023,7441,3460.76,12.9,1381,1.6,102,None,Snow,Home,Happy
+2,30-12-2023,14425,3818.27,0.93,1279,4.4,89,None,Fog,Gym,Neutral
+2,30-12-2023,15930,3475.18,7.71,947,7.8,106,None,Rain,Other,Stressed
+2,30-12-2023,4890,1581.56,3.99,1305,8.1,86,Running,Snow,Park,Neutral
+2,31-12-2023,27749,3518.25,5.66,927,5.5,168,Swimming,Clear,Park,Tired
+2,01-01-2024,20028,3452.31,10.87,451,1.0,127,Gym Workout,Clear,Park,Neutral
+2,02-01-2024,29285,2135.64,3.92,291,10.6,96,Running,Clear,Park,Neutral
+2,03-01-2024,19951,2301.79,0.84,322,4.1,101,Yoga,Fog,Other,Happy
+2,03-01-2024,2578,3709.73,0.75,215,9.4,75,Yoga,Snow,Home,Neutral
+2,06-01-2024,16468,2969.21,17.26,362,6.1,130,Yoga,Snow,Home,Stressed
+2,08-01-2024,15917,2599.35,17.63,1276,8.6,178,Yoga,Fog,Gym,Tired
+2,11-01-2024,26478,2914.44,7.83,964,3.7,125,Cycling,Snow,Home,Stressed
+2,11-01-2024,27071,3710.3,13.22,1437,2.4,176,Swimming,Rain,Office,Tired
+2,11-01-2024,22624,1849.92,1.96,859,4.6,168,Yoga,Fog,Office,Neutral
+2,12-01-2024,26644,2388.13,5.25,758,9.0,151,Gym Workout,Snow,Office,Neutral
+2,12-01-2024,1079,3832.52,1.63,1210,8.2,162,Walking,Snow,Office,Tired
+2,12-01-2024,7680,2776.18,2.06,11,3.9,128,Gym Workout,Fog,Office,Stressed
+2,15-01-2024,23854,3173.62,7.28,584,8.2,135,Swimming,Clear,Home,Neutral
+2,15-01-2024,23375,1846.83,9.54,875,3.2,133,Yoga,Fog,Other,Stressed
+2,17-01-2024,20973,3809.53,17.83,309,6.5,157,None,Snow,Home,Tired
+2,18-01-2024,10993,3442.6,3.96,412,1.8,66,Cycling,Fog,Park,Tired
+2,18-01-2024,13527,3039.53,18.8,849,0.8,79,None,Snow,Park,Neutral
+2,20-01-2024,14278,2507.72,1.91,892,3.6,114,Yoga,Snow,Home,Neutral
+2,20-01-2024,15648,2758.54,12.23,374,4.1,155,Running,Clear,Park,Neutral
+2,25-01-2024,6216,2804.61,16.0,849,4.3,109,Running,Fog,Office,Neutral
+2,25-01-2024,25254,2382.75,5.89,132,1.7,80,Cycling,Rain,Other,Stressed
+2,26-01-2024,2106,1822.26,19.65,1089,6.8,158,Running,Fog,Home,Tired
+2,26-01-2024,1941,2300.27,6.56,999,4.8,136,Gym Workout,Clear,Other,Stressed
+2,27-01-2024,15706,2016.71,5.48,9,3.6,62,Walking,Fog,Park,Happy
+2,28-01-2024,24688,3434.62,7.18,253,3.8,67,Running,Snow,Park,Happy
+2,28-01-2024,6165,2877.88,11.38,1248,1.6,117,Running,Snow,Gym,Stressed
+2,29-01-2024,11744,2393.96,0.49,51,7.9,86,Swimming,Snow,Office,Tired
+2,30-01-2024,9905,2357.63,17.32,1031,11.7,63,Walking,Rain,Park,Stressed
+2,01-02-2024,7130,1958.98,9.21,1413,0.0,123,Yoga,Fog,Gym,Happy
+2,03-02-2024,20387,3775.46,3.76,1234,7.2,158,Walking,Snow,Park,Stressed
+2,04-02-2024,19525,2729.8,12.99,543,1.4,94,Walking,Fog,Office,Tired
+2,05-02-2024,6222,1815.23,19.6,1150,11.1,119,Running,Snow,Other,Stressed
+2,05-02-2024,12632,3502.45,3.24,66,5.5,100,None,Rain,Home,Happy
+2,07-02-2024,23331,2838.06,1.31,162,2.3,84,Walking,Fog,Park,Tired
+2,08-02-2024,15850,3316.38,11.78,856,6.2,146,Gym Workout,Clear,Office,Tired
+2,08-02-2024,7739,3737.23,17.69,42,3.8,66,Yoga,Snow,Home,Stressed
+2,09-02-2024,10584,1787.29,17.57,414,7.6,78,Cycling,Fog,Home,Tired
+2,10-02-2024,8161,3519.33,5.08,782,1.1,141,Yoga,Clear,Office,Tired
+2,11-02-2024,21425,3280.23,3.32,424,7.8,74,Yoga,Fog,Home,Happy
+2,11-02-2024,29847,1516.41,2.03,225,8.6,174,Running,Clear,Office,Stressed
+2,12-02-2024,2655,2842.05,7.35,615,8.1,154,Walking,Snow,Home,Stressed
+2,12-02-2024,25981,3889.82,2.76,608,10.2,74,Gym Workout,Clear,Office,Happy
+2,12-02-2024,3452,3167.71,11.36,750,4.5,172,Walking,Snow,Park,Stressed
+2,13-02-2024,7315,3096.84,18.88,418,4.1,111,Walking,Fog,Gym,Tired
+2,13-02-2024,24628,1648.96,12.04,1045,10.8,122,Running,Rain,Gym,Neutral
+2,13-02-2024,5212,3566.28,9.7,586,7.6,97,None,Rain,Home,Neutral
+2,15-02-2024,18019,3350.92,12.19,1287,2.2,162,Yoga,Rain,Office,Neutral
+2,17-02-2024,20741,2229.52,2.59,791,6.9,144,None,Fog,Office,Neutral
+2,17-02-2024,8705,3240.65,1.53,845,3.0,78,Running,Fog,Home,Stressed
+2,17-02-2024,11682,2222.13,4.03,983,2.3,127,Running,Fog,Home,Tired
+2,18-02-2024,3276,2181.46,17.89,645,3.3,103,Yoga,Rain,Office,Neutral
+2,18-02-2024,16816,2681.87,3.86,682,3.2,136,Running,Rain,Gym,Neutral
+2,18-02-2024,27158,2016.79,12.9,167,11.8,74,Swimming,Fog,Gym,Stressed
+2,19-02-2024,11204,2967.01,14.2,815,11.9,110,Walking,Rain,Park,Tired
+2,20-02-2024,23163,2290.37,17.07,1102,3.2,146,Swimming,Clear,Gym,Stressed
+2,21-02-2024,4950,3953.86,2.47,1140,5.8,172,Swimming,Rain,Other,Tired
+2,22-02-2024,14866,2100.18,11.47,832,11.0,81,Cycling,Fog,Office,Neutral
+2,22-02-2024,10054,3634.63,3.13,740,1.1,148,Swimming,Snow,Gym,Stressed
+2,25-02-2024,22686,2029.94,6.47,938,1.2,160,Walking,Clear,Home,Neutral
+2,26-02-2024,7048,2946.73,5.96,119,4.7,100,None,Rain,Gym,Neutral
+2,01-03-2024,14057,2758.55,15.9,806,0.1,80,Gym Workout,Clear,Office,Neutral
+2,01-03-2024,11622,3500.51,15.75,30,5.4,154,Running,Rain,Gym,Happy
+2,03-03-2024,26457,3980.18,18.44,520,8.4,162,Running,Rain,Gym,Neutral
+2,06-03-2024,19290,1907.14,17.17,920,10.9,98,Cycling,Fog,Park,Neutral
+2,06-03-2024,17012,2723.63,15.55,118,4.1,104,None,Rain,Gym,Neutral
+2,06-03-2024,10288,3274.23,8.26,1268,11.2,156,Gym Workout,Snow,Home,Stressed
+2,07-03-2024,5279,2756.89,16.2,605,4.9,61,Walking,Snow,Park,Stressed
+2,07-03-2024,7139,3001.87,13.83,287,3.3,75,Gym Workout,Snow,Other,Neutral
+2,07-03-2024,15490,1930.25,11.62,1406,4.3,71,None,Snow,Park,Happy
+2,07-03-2024,104,2292.69,2.24,1282,8.3,150,Running,Rain,Office,Neutral
+2,10-03-2024,28429,2300.02,16.9,1201,4.2,108,Gym Workout,Rain,Home,Stressed
+2,12-03-2024,3764,2752.67,14.35,1184,2.2,170,Running,Rain,Other,Happy
+2,12-03-2024,27270,3301.21,1.91,576,5.8,81,Cycling,Rain,Home,Tired
+2,12-03-2024,21625,2691.43,3.5,1092,7.4,62,Swimming,Clear,Home,Stressed
+2,13-03-2024,6661,2306.01,15.21,852,6.0,89,Running,Snow,Park,Stressed
+2,16-03-2024,25110,2829.47,5.43,457,5.1,172,Walking,Fog,Gym,Neutral
+2,16-03-2024,23383,2103.81,18.33,1255,10.5,139,None,Clear,Other,Neutral
+2,17-03-2024,21142,1509.07,17.2,1309,11.9,123,None,Fog,Other,Neutral
+2,19-03-2024,12373,1884.99,0.98,1109,3.9,95,Walking,Snow,Park,Stressed
+2,20-03-2024,22802,3266.92,19.71,1335,5.3,118,Cycling,Clear,Other,Tired
+2,22-03-2024,27971,3680.38,6.66,1224,1.8,130,Swimming,Snow,Home,Stressed
+2,24-03-2024,2387,2905.82,12.66,1217,8.2,87,None,Snow,Other,Happy
+2,25-03-2024,23157,2367.25,10.7,1336,6.8,97,Swimming,Snow,Other,Tired
+2,27-03-2024,19417,3599.56,1.15,1229,8.7,85,Yoga,Clear,Home,Neutral
+2,27-03-2024,8678,1590.5,13.77,1406,2.7,91,Running,Snow,Other,Tired
+2,27-03-2024,6387,3364.52,3.14,99,8.2,99,None,Rain,Park,Tired
+2,27-03-2024,4141,3714.13,3.8,565,8.8,63,Swimming,Rain,Home,Happy
+2,28-03-2024,23837,3588.0,12.79,1379,9.2,174,Running,Snow,Park,Happy
+2,30-03-2024,755,3670.86,3.3,994,3.5,126,Swimming,Clear,Home,Stressed
+2,30-03-2024,13295,3833.29,10.93,356,3.7,77,Swimming,Clear,Gym,Tired
+2,01-04-2024,8417,1917.56,16.97,696,8.5,161,Running,Snow,Home,Happy
+2,01-04-2024,7398,2539.57,1.61,155,3.7,68,Walking,Fog,Gym,Stressed
+2,02-04-2024,22020,2490.71,12.52,207,5.9,100,Cycling,Snow,Office,Tired
+2,03-04-2024,14204,3021.39,1.52,173,8.1,61,Walking,Fog,Gym,Stressed
+2,05-04-2024,6084,2378.87,15.38,88,10.7,141,Swimming,Fog,Office,Stressed
+2,06-04-2024,7408,2253.84,19.97,259,7.5,75,Walking,Rain,Gym,Tired
+2,06-04-2024,6864,3510.28,3.77,1138,7.6,100,Yoga,Rain,Park,Neutral
+2,08-04-2024,9212,3529.16,15.12,924,3.9,151,Swimming,Snow,Park,Stressed
+2,10-04-2024,29050,2830.84,11.23,644,6.8,137,Swimming,Fog,Park,Happy
+2,10-04-2024,19218,2422.59,14.68,1141,5.1,94,Walking,Snow,Gym,Stressed
+2,12-04-2024,24222,3053.9,12.95,1258,6.1,176,Yoga,Clear,Park,Stressed
+2,13-04-2024,20657,1628.9,13.86,1310,10.7,120,Running,Snow,Home,Happy
+2,14-04-2024,22812,3176.28,0.78,786,9.0,114,Running,Fog,Office,Happy
+2,16-04-2024,6250,2732.54,19.9,59,3.8,173,None,Fog,Other,Stressed
+2,18-04-2024,16437,3856.63,6.63,422,2.3,118,Cycling,Snow,Office,Happy
+2,18-04-2024,13635,3703.15,10.51,1250,7.4,155,Cycling,Rain,Park,Stressed
+2,21-04-2024,26897,3983.31,7.95,103,8.1,160,Walking,Snow,Gym,Neutral
+2,22-04-2024,2682,3370.24,6.13,125,0.3,150,Cycling,Fog,Other,Stressed
+2,25-04-2024,15403,1746.3,19.78,820,6.3,137,Running,Snow,Office,Tired
+2,25-04-2024,28796,1966.76,6.62,153,3.7,164,Walking,Clear,Home,Stressed
+2,25-04-2024,20347,3453.21,11.85,71,0.9,149,Running,Clear,Park,Tired
+2,27-04-2024,5169,2943.63,19.6,827,9.5,67,Running,Rain,Office,Stressed
+2,28-04-2024,1134,1615.0,14.42,440,11.3,178,Walking,Snow,Home,Happy
+2,28-04-2024,18631,1526.84,13.1,281,7.7,157,None,Snow,Office,Neutral
+2,29-04-2024,13529,1979.42,11.83,212,4.7,136,Cycling,Snow,Gym,Tired
+2,29-04-2024,27156,1786.11,12.7,1246,11.5,89,Yoga,Rain,Home,Stressed
+2,01-05-2024,23334,3498.53,18.87,117,9.8,93,Walking,Rain,Park,Neutral
+2,03-05-2024,12133,2635.95,1.0,457,4.9,174,Yoga,Snow,Home,Stressed
+2,05-05-2024,26715,3985.31,8.69,191,3.4,144,Yoga,Fog,Gym,Happy
+2,07-05-2024,1107,1629.87,7.68,130,4.3,155,Cycling,Rain,Home,Stressed
+2,07-05-2024,3534,1642.9,12.24,647,10.8,62,Gym Workout,Fog,Other,Neutral
+2,07-05-2024,4662,3770.01,11.33,605,2.3,165,Walking,Rain,Other,Tired
+2,08-05-2024,22866,3741.96,5.9,1279,2.6,70,Gym Workout,Snow,Other,Happy
+2,08-05-2024,6333,2577.85,7.7,289,7.7,173,Walking,Snow,Home,Neutral
+2,09-05-2024,9365,3424.52,4.86,684,9.9,76,Swimming,Snow,Office,Tired
+2,10-05-2024,27099,2792.15,8.97,135,0.6,159,Yoga,Clear,Home,Stressed
+2,13-05-2024,12399,1681.86,0.01,494,0.1,127,Swimming,Snow,Park,Stressed
+2,14-05-2024,1666,2701.87,0.55,418,2.4,65,None,Rain,Other,Tired
+2,14-05-2024,24343,3986.86,2.46,214,8.5,112,Swimming,Rain,Office,Stressed
+2,17-05-2024,6570,2112.4,1.44,11,4.0,162,Gym Workout,Clear,Home,Stressed
+2,19-05-2024,1033,3056.53,11.02,618,10.3,155,Walking,Fog,Home,Stressed
+2,22-05-2024,20702,1599.38,12.54,249,3.6,119,Cycling,Rain,Office,Happy
+2,22-05-2024,2646,3386.75,14.29,195,5.4,176,Swimming,Fog,Home,Happy
+2,22-05-2024,25631,3594.9,5.02,281,8.9,110,Swimming,Rain,Other,Happy
+2,22-05-2024,4553,2888.05,6.06,854,7.1,101,Walking,Snow,Office,Neutral
+2,24-05-2024,5504,3236.97,19.62,1422,4.5,79,Yoga,Clear,Gym,Stressed
+2,27-05-2024,22082,2316.18,12.07,792,9.4,118,Running,Rain,Gym,Neutral
+2,27-05-2024,14885,3957.45,19.47,1261,9.6,159,None,Clear,Home,Happy
+2,28-05-2024,8073,2698.9,15.99,1436,11.7,112,Yoga,Snow,Office,Tired
+2,29-05-2024,17786,3085.14,5.96,979,8.9,121,Running,Snow,Home,Tired
+2,30-05-2024,5336,3393.06,17.17,1316,1.9,133,Running,Snow,Office,Happy
+2,30-05-2024,29670,3720.66,3.47,822,1.4,143,Walking,Rain,Gym,Tired
+2,01-06-2024,17334,3985.06,3.45,1190,9.4,128,Gym Workout,Rain,Other,Tired
+2,03-06-2024,11926,3191.05,10.14,731,8.1,160,Running,Fog,Home,Tired
+2,03-06-2024,12559,2607.06,18.39,318,6.2,114,Running,Clear,Office,Stressed
+2,04-06-2024,19346,2704.79,0.78,417,6.0,67,Swimming,Fog,Gym,Happy
+2,04-06-2024,6837,2383.29,2.0,895,5.0,157,Yoga,Clear,Park,Stressed
+2,04-06-2024,8346,3583.89,15.48,1278,11.1,176,Gym Workout,Rain,Gym,Happy
+2,06-06-2024,17405,2022.49,18.43,1390,3.2,161,Yoga,Clear,Office,Tired
+2,10-06-2024,11224,1784.3,5.48,932,11.2,87,Swimming,Fog,Park,Tired
+2,12-06-2024,26471,3888.49,9.3,590,3.8,102,Running,Rain,Office,Happy
+2,13-06-2024,27313,1955.03,3.4,1071,10.7,60,Cycling,Rain,Other,Neutral
+2,13-06-2024,28132,1757.02,19.25,1329,4.6,134,Swimming,Clear,Office,Tired
+2,13-06-2024,8628,3803.53,6.08,1221,3.8,65,Yoga,Snow,Office,Neutral
+2,13-06-2024,26177,1561.03,17.84,678,10.0,176,Walking,Fog,Gym,Neutral
+2,15-06-2024,5416,2539.06,6.68,850,5.7,133,Running,Fog,Gym,Tired
+2,15-06-2024,2739,3048.63,0.33,1259,3.8,106,Swimming,Fog,Gym,Stressed
+2,16-06-2024,18059,3011.96,12.17,175,2.4,92,Yoga,Fog,Gym,Tired
+2,18-06-2024,10438,3005.57,17.83,239,0.3,175,Running,Clear,Office,Tired
+2,19-06-2024,19061,3591.62,13.31,966,4.2,150,Running,Fog,Home,Tired
+2,20-06-2024,5859,2957.59,10.67,373,3.7,105,None,Rain,Park,Tired
+2,20-06-2024,4205,3365.91,11.85,1317,2.0,99,Cycling,Clear,Home,Stressed
+2,21-06-2024,13761,3098.11,8.8,217,8.9,67,None,Clear,Office,Stressed
+2,21-06-2024,24247,3165.24,8.19,18,6.9,110,Cycling,Rain,Park,Stressed
+2,26-06-2024,574,3613.19,18.97,1036,9.9,127,Cycling,Snow,Office,Happy
+2,27-06-2024,646,3067.66,6.43,379,12.0,93,Swimming,Snow,Park,Happy
+2,27-06-2024,5143,2451.88,4.99,479,7.3,96,Yoga,Snow,Home,Stressed
+2,27-06-2024,26604,3420.55,6.06,70,8.3,167,Yoga,Rain,Gym,Stressed
+2,30-06-2024,16940,3743.66,1.46,760,9.9,96,None,Fog,Home,Neutral
+2,02-07-2024,25527,3680.0,19.04,1073,0.6,141,Running,Fog,Other,Stressed
+2,02-07-2024,20022,1563.67,12.06,292,10.7,175,Cycling,Fog,Gym,Neutral
+2,03-07-2024,19819,3677.05,3.93,73,2.6,95,Cycling,Clear,Office,Stressed
+2,03-07-2024,11348,2214.21,12.84,299,6.1,139,None,Clear,Gym,Tired
+2,04-07-2024,10277,3886.15,14.46,1325,9.2,89,None,Fog,Gym,Tired
+2,04-07-2024,23979,3802.77,10.69,1179,3.0,92,Swimming,Fog,Park,Happy
+2,09-07-2024,8274,1555.57,0.32,451,10.8,94,Gym Workout,Clear,Gym,Stressed
+2,10-07-2024,5251,2898.62,19.01,433,5.9,67,Walking,Fog,Home,Tired
+2,12-07-2024,27918,2839.95,15.09,319,0.8,113,Yoga,Rain,Office,Stressed
+2,12-07-2024,28863,1909.12,2.57,442,1.4,61,Running,Rain,Park,Happy
+2,13-07-2024,5814,3099.07,19.29,837,8.1,64,None,Rain,Office,Stressed
+2,13-07-2024,14379,2066.0,14.15,232,7.0,176,None,Fog,Park,Happy
+2,17-07-2024,10719,3344.9,19.93,1117,6.1,132,Cycling,Clear,Gym,Neutral
+2,18-07-2024,25516,1797.63,12.83,333,10.2,113,Swimming,Clear,Other,Tired
+2,19-07-2024,19835,2457.92,2.59,1436,5.3,157,Swimming,Fog,Gym,Tired
+2,20-07-2024,16236,3864.38,2.91,1304,8.9,83,Swimming,Rain,Office,Stressed
+2,21-07-2024,22580,3939.77,10.98,1155,7.5,109,Cycling,Fog,Other,Stressed
+2,24-07-2024,26772,3477.7,4.12,201,0.1,115,Running,Clear,Office,Happy
+2,24-07-2024,22682,3500.9,4.81,1095,5.4,103,Swimming,Rain,Office,Stressed
+2,26-07-2024,28569,3575.02,11.48,405,5.3,85,Cycling,Snow,Office,Tired
+2,27-07-2024,17659,1833.94,5.93,398,2.5,71,Gym Workout,Snow,Park,Neutral
+2,29-07-2024,24613,2993.64,0.32,496,10.2,91,Gym Workout,Rain,Park,Stressed
+2,31-07-2024,10273,1771.45,3.24,1439,9.8,128,Running,Fog,Office,Happy
+2,31-07-2024,26226,3805.32,6.77,182,6.0,77,None,Fog,Gym,Stressed
+2,01-08-2024,21075,2178.18,7.77,860,9.2,146,Cycling,Clear,Gym,Tired
+2,03-08-2024,15456,2570.63,0.11,199,0.7,147,Swimming,Fog,Other,Happy
+2,04-08-2024,15853,3468.85,15.45,1309,1.4,168,Cycling,Snow,Office,Stressed
+2,05-08-2024,28594,2528.37,18.43,364,9.1,69,Walking,Clear,Home,Neutral
+2,05-08-2024,14988,2616.59,0.22,890,8.4,97,Running,Snow,Home,Happy
+2,06-08-2024,27884,2731.34,2.53,648,5.8,69,Cycling,Clear,Other,Tired
+2,10-08-2024,6690,1719.69,18.5,493,1.3,95,Walking,Snow,Office,Neutral
+2,11-08-2024,7980,3543.27,13.54,1148,4.9,96,Walking,Clear,Office,Neutral
+2,12-08-2024,194,1681.28,8.34,632,9.3,170,None,Clear,Office,Tired
+2,12-08-2024,2338,2971.77,1.17,282,3.5,72,Walking,Clear,Park,Neutral
+2,14-08-2024,9792,3400.26,15.38,619,11.4,98,Cycling,Clear,Gym,Happy
+2,14-08-2024,15314,1597.07,16.3,860,5.7,141,Gym Workout,Rain,Park,Happy
+2,15-08-2024,25298,3710.93,14.77,1231,6.1,129,Gym Workout,Clear,Gym,Tired
+2,16-08-2024,28876,3139.58,5.27,870,3.6,103,Yoga,Clear,Park,Neutral
+2,17-08-2024,25409,1879.48,14.35,1334,8.7,103,None,Rain,Office,Neutral
+2,17-08-2024,22265,2622.04,19.81,200,8.3,97,Walking,Clear,Gym,Happy
+2,21-08-2024,29683,2998.57,6.92,140,11.2,118,Swimming,Clear,Gym,Happy
+2,22-08-2024,1525,3315.92,2.24,790,9.1,171,Running,Snow,Office,Stressed
+2,23-08-2024,13312,3530.11,0.37,613,11.3,148,Swimming,Fog,Other,Tired
+2,24-08-2024,14094,3354.88,16.07,587,4.2,159,Yoga,Rain,Gym,Neutral
+2,25-08-2024,4502,3672.94,2.79,129,2.2,98,None,Rain,Gym,Stressed
+2,25-08-2024,16011,2737.55,11.1,1157,2.5,129,Yoga,Fog,Office,Stressed
+2,26-08-2024,22630,2316.56,4.51,1327,11.8,99,Swimming,Rain,Gym,Happy
+2,26-08-2024,19723,3625.24,5.38,1127,8.0,104,Cycling,Fog,Other,Neutral
+2,27-08-2024,16996,2397.23,19.68,1365,11.7,94,Swimming,Rain,Park,Tired
+2,28-08-2024,25409,1582.34,13.38,58,9.1,176,None,Fog,Home,Happy
+2,04-09-2024,22443,1960.79,6.0,231,8.7,156,Yoga,Clear,Home,Neutral
+2,05-09-2024,4616,1614.89,17.78,278,11.6,125,Swimming,Snow,Park,Neutral
+2,07-09-2024,26743,2161.97,6.01,611,0.7,160,Swimming,Rain,Home,Stressed
+2,07-09-2024,3000,3085.76,10.1,821,2.7,111,Running,Snow,Home,Tired
+2,08-09-2024,9342,2641.06,7.7,1240,5.9,91,Running,Snow,Gym,Neutral
+2,08-09-2024,25075,1573.75,3.42,1041,1.1,127,Gym Workout,Rain,Office,Tired
+2,08-09-2024,25143,3492.31,14.49,45,8.4,148,Swimming,Fog,Other,Happy
+2,09-09-2024,4664,2846.16,18.46,925,10.7,83,Gym Workout,Clear,Office,Tired
+2,09-09-2024,12404,2543.66,13.77,1111,7.5,93,Running,Clear,Other,Neutral
+2,09-09-2024,8793,3476.32,9.56,758,2.6,81,Yoga,Clear,Park,Neutral
+2,09-09-2024,3633,1786.42,1.51,248,4.6,137,Walking,Snow,Gym,Happy
+2,10-09-2024,7920,3771.19,4.82,1355,9.5,66,Swimming,Rain,Park,Happy
+2,11-09-2024,15656,3381.9,19.49,1170,10.3,169,None,Snow,Other,Tired
+2,13-09-2024,23374,2172.17,6.35,374,7.6,156,Cycling,Clear,Other,Happy
+2,13-09-2024,944,2129.17,18.45,652,8.6,141,Cycling,Fog,Other,Tired
+2,13-09-2024,4674,3163.79,14.6,592,4.9,96,Yoga,Snow,Park,Happy
+2,14-09-2024,12178,3892.97,6.62,85,10.1,79,Cycling,Clear,Gym,Happy
+2,14-09-2024,18033,3852.14,10.65,184,11.1,124,Walking,Snow,Home,Neutral
+2,15-09-2024,13376,1653.02,15.46,1257,5.2,128,Gym Workout,Snow,Other,Tired
+2,16-09-2024,15297,2786.63,18.6,160,0.5,176,Running,Snow,Office,Neutral
+2,17-09-2024,12066,3691.08,6.38,176,1.1,61,Walking,Snow,Gym,Happy
+2,17-09-2024,10243,2059.88,14.53,338,4.2,125,None,Clear,Park,Happy
+2,17-09-2024,11714,2721.61,1.8,196,10.0,69,Swimming,Snow,Park,Stressed
+2,18-09-2024,3200,2351.76,2.8,1066,5.1,106,Swimming,Snow,Home,Stressed
+2,18-09-2024,16409,1754.84,10.6,509,7.1,138,Walking,Rain,Home,Happy
+2,19-09-2024,27716,1877.07,19.3,621,0.1,67,Running,Fog,Office,Tired
+2,21-09-2024,17267,2559.83,3.85,436,0.5,89,Running,Rain,Other,Happy
+2,22-09-2024,18191,1868.58,19.67,154,1.1,142,Gym Workout,Clear,Office,Stressed
+2,22-09-2024,13832,2371.45,5.13,399,5.9,176,Yoga,Fog,Park,Neutral
+2,22-09-2024,13840,3322.5,6.59,1192,5.9,159,Swimming,Snow,Other,Tired
+2,22-09-2024,3870,2295.99,9.58,674,9.9,144,Yoga,Fog,Other,Happy
+2,23-09-2024,12856,3003.43,8.11,1309,3.2,118,Running,Fog,Other,Neutral
+2,26-09-2024,10148,2431.8,14.59,140,0.7,157,Walking,Clear,Park,Happy
+2,27-09-2024,21867,2268.74,0.98,905,6.4,164,None,Rain,Gym,Stressed
+2,29-09-2024,15784,2125.5,19.88,718,1.7,155,Yoga,Fog,Gym,Happy
+2,05-10-2024,16012,3946.18,13.86,936,7.6,136,Running,Clear,Gym,Stressed
+2,06-10-2024,14145,1873.09,12.35,699,4.9,122,None,Clear,Other,Stressed
+2,06-10-2024,5402,3717.95,10.26,1406,11.0,66,None,Fog,Gym,Neutral
+2,07-10-2024,4599,1604.01,18.21,137,3.6,77,None,Rain,Office,Happy
+2,08-10-2024,25189,2857.96,8.48,470,4.5,123,Walking,Snow,Gym,Tired
+2,09-10-2024,2089,2110.87,14.93,1436,9.4,169,Gym Workout,Clear,Home,Happy
+2,09-10-2024,15756,3804.81,17.12,43,0.7,125,Swimming,Rain,Other,Neutral
+2,10-10-2024,8150,2739.54,9.16,726,5.9,130,None,Rain,Park,Stressed
+2,10-10-2024,6916,1887.5,13.86,988,6.9,123,Cycling,Snow,Other,Neutral
+2,11-10-2024,15339,2874.27,13.28,1029,8.6,157,Gym Workout,Snow,Office,Happy
+2,12-10-2024,27156,3195.22,17.94,1317,9.4,163,Walking,Fog,Park,Happy
+2,13-10-2024,14509,3423.96,3.41,788,10.9,148,Walking,Snow,Office,Tired
+2,18-10-2024,22136,1590.17,14.38,1411,3.1,156,None,Fog,Other,Neutral
+2,19-10-2024,5478,3007.17,5.43,987,8.6,133,Cycling,Fog,Gym,Stressed
+2,19-10-2024,11409,2873.4,18.7,1259,7.2,89,None,Snow,Gym,Stressed
+2,20-10-2024,11803,2052.17,5.21,1407,11.9,171,Swimming,Clear,Park,Happy
+2,21-10-2024,18737,2522.87,5.57,869,8.8,81,Gym Workout,Rain,Park,Happy
+2,22-10-2024,12676,3841.74,14.68,61,10.2,121,Cycling,Snow,Other,Neutral
+2,22-10-2024,10357,1602.34,17.93,1032,0.4,100,None,Snow,Park,Tired
+2,23-10-2024,20374,3566.02,4.34,1196,11.4,143,Cycling,Fog,Other,Stressed
+2,23-10-2024,12280,2854.25,10.45,829,1.3,150,Yoga,Fog,Office,Neutral
+2,23-10-2024,21524,3827.32,10.0,1375,5.5,95,Yoga,Snow,Office,Tired
+2,24-10-2024,22647,3978.82,2.81,832,4.4,117,Swimming,Rain,Other,Neutral
+2,24-10-2024,22923,2218.79,2.21,557,11.5,123,Yoga,Rain,Park,Tired
+2,26-10-2024,8088,3107.07,11.87,803,1.1,64,None,Snow,Office,Tired
+2,26-10-2024,7595,3656.54,5.87,382,11.8,159,Swimming,Rain,Office,Tired
+2,26-10-2024,13329,3096.79,17.29,1206,9.0,123,Yoga,Clear,Home,Stressed
+2,29-10-2024,21018,2999.71,0.64,1356,0.2,156,Yoga,Rain,Park,Stressed
+2,29-10-2024,8852,3015.88,14.41,1377,7.2,124,Gym Workout,Snow,Park,Happy
+2,29-10-2024,18136,1848.88,19.54,76,7.6,108,Running,Snow,Home,Stressed
+2,31-10-2024,17465,2714.52,14.02,1227,10.5,161,Yoga,Fog,Park,Neutral
+2,31-10-2024,17749,2433.48,17.2,1078,7.9,76,Walking,Clear,Home,Neutral
+2,01-11-2024,19884,2447.75,17.16,910,6.4,133,None,Snow,Office,Stressed
+2,02-11-2024,1570,3095.43,13.18,1043,2.6,156,Running,Rain,Gym,Stressed
+2,04-11-2024,23639,2179.02,4.56,504,10.6,99,Walking,Fog,Gym,Tired
+2,04-11-2024,1793,2136.65,15.73,1023,6.6,162,Running,Rain,Home,Happy
+2,05-11-2024,9316,1584.46,15.36,1209,0.6,139,Yoga,Rain,Office,Stressed
+2,06-11-2024,28218,2722.13,3.14,574,9.1,120,Yoga,Clear,Park,Neutral
+2,07-11-2024,25429,2004.09,14.45,187,6.9,92,Swimming,Snow,Other,Happy
+2,07-11-2024,743,1892.71,6.55,1173,2.4,67,None,Snow,Park,Stressed
+2,08-11-2024,17678,1784.34,2.37,1062,9.3,126,None,Clear,Office,Neutral
+2,09-11-2024,22613,3533.67,6.98,398,0.6,76,Swimming,Rain,Park,Happy
+2,10-11-2024,6363,3802.0,15.05,232,10.1,176,Running,Rain,Home,Neutral
+2,10-11-2024,23140,2627.85,15.34,738,0.1,86,Swimming,Rain,Gym,Tired
+2,12-11-2024,11209,3642.44,13.76,946,11.3,113,Gym Workout,Fog,Home,Neutral
+2,14-11-2024,20491,1665.69,10.75,1375,3.2,164,Yoga,Snow,Park,Tired
+2,15-11-2024,3922,2769.96,2.24,374,1.2,117,Running,Rain,Other,Neutral
+2,16-11-2024,15812,1564.62,7.19,1192,11.7,169,Swimming,Snow,Home,Neutral
+2,18-11-2024,21543,1833.3,19.05,1358,11.4,144,None,Snow,Home,Tired
+2,20-11-2024,25017,2918.84,3.66,779,9.4,106,Yoga,Snow,Gym,Stressed
+2,21-11-2024,7001,3767.8,15.85,742,5.6,125,None,Fog,Office,Tired
+2,21-11-2024,14434,3408.64,9.53,157,4.7,121,Yoga,Clear,Home,Stressed
+2,24-11-2024,7437,2202.89,2.32,725,6.1,79,Gym Workout,Rain,Home,Happy
+2,25-11-2024,10983,3487.74,14.57,1300,4.7,91,Yoga,Fog,Other,Neutral
+2,25-11-2024,7845,3111.04,9.17,1019,10.8,102,Cycling,Fog,Park,Happy
+2,28-11-2024,9651,2920.87,2.66,1330,4.7,105,Swimming,Snow,Gym,Neutral
+2,28-11-2024,24149,3362.43,9.19,947,3.0,151,Running,Rain,Gym,Tired
+2,29-11-2024,16709,3304.96,14.3,1123,7.8,63,Yoga,Clear,Other,Tired
+2,02-12-2024,5095,3138.91,3.27,837,4.7,145,Gym Workout,Fog,Other,Stressed
+2,04-12-2024,19809,2057.23,9.07,337,11.3,179,None,Clear,Office,Stressed
+2,06-12-2024,24439,3438.53,17.48,826,6.4,67,Gym Workout,Rain,Other,Neutral
+2,08-12-2024,25905,2020.44,5.21,796,3.6,144,Walking,Fog,Park,Happy
+2,08-12-2024,20306,2101.63,8.74,543,5.8,89,Swimming,Snow,Gym,Tired
+2,09-12-2024,11621,1944.25,11.44,912,0.6,166,Walking,Clear,Home,Happy
+2,09-12-2024,20284,3266.94,6.33,745,10.3,75,Running,Rain,Home,Neutral
+2,09-12-2024,28081,2336.27,13.42,393,6.9,167,Swimming,Rain,Office,Tired
+2,10-12-2024,9190,3840.83,16.18,45,2.4,148,Running,Rain,Home,Stressed
+2,10-12-2024,3266,3156.75,7.79,124,9.1,121,Cycling,Rain,Office,Tired
+2,10-12-2024,5276,1517.44,1.09,908,0.6,98,Gym Workout,Clear,Office,Tired
+2,11-12-2024,4087,2939.84,9.58,932,10.2,64,Cycling,Clear,Home,Happy
+2,12-12-2024,22177,2730.24,8.16,621,0.5,104,Swimming,Snow,Gym,Happy
+2,13-12-2024,20567,2629.16,10.29,746,0.1,83,Yoga,Rain,Park,Neutral
+2,14-12-2024,1382,3437.08,5.88,965,9.3,172,Walking,Rain,Office,Happy
+2,14-12-2024,14416,3825.02,4.8,937,1.5,138,None,Fog,Gym,Tired
+2,17-12-2024,25381,3190.47,2.41,973,3.0,136,None,Rain,Office,Neutral
+2,18-12-2024,7380,3304.34,1.15,956,11.1,96,Gym Workout,Rain,Other,Stressed
+2,20-12-2024,47,2600.57,8.69,667,6.5,115,Swimming,Rain,Home,Happy
+2,20-12-2024,13116,3524.5,11.53,358,9.9,170,Gym Workout,Fog,Park,Neutral
+2,20-12-2024,4243,3739.21,2.91,628,9.7,138,None,Clear,Gym,Happy
+2,22-12-2024,17365,3604.33,18.72,350,3.4,151,Gym Workout,Fog,Office,Happy
+2,22-12-2024,10920,3825.97,5.26,61,3.6,76,Gym Workout,Rain,Home,Neutral
+2,23-12-2024,20957,2216.5,3.21,1423,8.3,147,Swimming,Snow,Home,Stressed
+2,24-12-2024,1359,3555.82,11.75,833,5.4,111,Gym Workout,Rain,Gym,Tired
+2,26-12-2024,6633,2284.83,2.63,850,4.1,69,Swimming,Clear,Other,Neutral
+2,26-12-2024,8758,2311.74,12.25,32,10.8,100,Gym Workout,Rain,Home,Tired
+2,26-12-2024,29973,2279.35,9.72,1071,1.7,108,Yoga,Rain,Gym,Stressed
+2,26-12-2024,7938,3721.7,14.51,808,10.2,95,Cycling,Snow,Home,Neutral
+2,27-12-2024,470,3639.44,2.54,722,7.2,170,Walking,Fog,Home,Neutral
+2,27-12-2024,9034,1789.79,17.29,880,9.7,77,Swimming,Fog,Park,Stressed
+2,27-12-2024,24690,1984.0,5.34,355,5.5,143,Cycling,Rain,Park,Happy
+2,27-12-2024,20040,2970.75,6.21,493,4.1,153,Gym Workout,Clear,Park,Neutral
+2,28-12-2024,5000,2156.14,18.26,833,1.6,81,Yoga,Snow,Other,Happy
+2,29-12-2024,3220,3026.19,9.52,294,10.6,164,Swimming,Snow,Home,Neutral
+2,30-12-2024,3684,3784.51,15.28,800,7.3,94,Running,Clear,Other,Tired
+2,31-12-2024,20150,2458.29,14.18,677,5.0,64,Swimming,Clear,Other,Stressed
+2,02-01-2025,7005,3267.42,7.74,1007,0.5,156,Gym Workout,Fog,Park,Stressed
+2,03-01-2025,3487,1621.88,17.43,139,1.9,124,None,Rain,Home,Tired
+2,03-01-2025,27984,1517.21,14.12,679,4.3,75,Swimming,Rain,Gym,Stressed
+2,04-01-2025,5440,2466.1,12.63,529,7.1,152,Swimming,Fog,Gym,Happy
+2,04-01-2025,2153,3609.85,18.87,406,3.2,98,Walking,Fog,Other,Neutral
+2,04-01-2025,13714,1704.99,2.91,440,4.9,136,Cycling,Rain,Home,Happy
+2,05-01-2025,1877,1665.61,8.27,39,3.4,82,Yoga,Fog,Gym,Tired
+2,05-01-2025,22619,3070.73,16.37,182,11.0,138,Gym Workout,Snow,Office,Stressed
+2,05-01-2025,23893,3544.97,7.06,237,4.0,84,None,Fog,Home,Stressed
+2,05-01-2025,1155,2970.77,13.24,495,5.9,173,Cycling,Clear,Gym,Neutral
+2,06-01-2025,9687,1701.78,0.76,480,9.8,134,Swimming,Fog,Home,Happy
+2,06-01-2025,4079,2904.98,0.37,931,0.3,154,Cycling,Clear,Home,Neutral
+2,07-01-2025,29005,2002.16,11.02,720,9.4,131,Yoga,Rain,Gym,Neutral
+2,08-01-2025,13012,3486.95,1.06,276,0.2,114,Walking,Clear,Home,Stressed
+2,09-01-2025,13020,1622.68,16.32,1018,0.9,112,Walking,Rain,Office,Stressed
+2,11-01-2025,12830,2981.5,12.76,996,8.2,128,Swimming,Clear,Park,Neutral
+2,12-01-2025,9248,3643.81,4.7,857,9.7,118,Running,Snow,Gym,Neutral
+2,12-01-2025,28888,1813.43,12.12,1081,4.3,154,Running,Fog,Gym,Tired
+2,13-01-2025,5111,3868.83,12.1,319,9.5,140,None,Snow,Gym,Tired
+2,13-01-2025,10747,2638.73,12.33,788,10.2,100,Gym Workout,Clear,Gym,Neutral
+2,13-01-2025,24987,1744.0,2.7,1330,2.1,130,Gym Workout,Snow,Other,Happy
+2,14-01-2025,6521,3657.25,6.52,367,7.2,109,Swimming,Clear,Home,Happy
+2,14-01-2025,27906,2748.99,19.27,1238,0.8,159,Swimming,Snow,Other,Neutral
+2,15-01-2025,22770,1543.85,14.34,150,0.7,115,Swimming,Clear,Office,Neutral
+2,15-01-2025,21577,2054.03,9.89,106,8.4,72,Swimming,Clear,Gym,Tired
+2,17-01-2025,10172,2756.34,15.52,1234,6.1,103,Gym Workout,Fog,Other,Tired
+2,17-01-2025,11433,3813.84,16.14,619,1.0,179,Running,Rain,Other,Happy
+2,17-01-2025,17934,2916.91,14.67,575,7.8,130,Running,Rain,Home,Stressed
+2,18-01-2025,17011,1870.52,5.79,139,0.8,178,None,Rain,Home,Neutral
+2,18-01-2025,1209,2697.63,10.62,1358,9.7,93,Walking,Rain,Office,Stressed
+2,20-01-2025,14660,3145.06,4.58,621,2.5,155,Yoga,Rain,Other,Stressed
+2,21-01-2025,19109,2834.88,5.27,1191,0.6,150,Running,Clear,Office,Neutral
+2,21-01-2025,2341,3480.36,2.74,72,5.6,143,Cycling,Snow,Office,Neutral
+2,21-01-2025,3843,2968.36,2.86,312,7.9,81,Yoga,Clear,Gym,Happy
+2,21-01-2025,14429,3352.36,16.65,1338,8.7,106,Gym Workout,Snow,Office,Stressed
+2,22-01-2025,7287,2744.41,14.04,1143,2.2,129,Gym Workout,Rain,Other,Stressed
+2,23-01-2025,10987,2399.57,10.66,408,0.6,156,None,Snow,Gym,Neutral
+2,25-01-2025,10054,1789.48,7.63,1289,10.6,91,Gym Workout,Clear,Gym,Stressed
+2,26-01-2025,25999,1953.04,8.98,869,2.4,68,Running,Snow,Office,Stressed
+2,26-01-2025,11313,2627.19,16.04,1380,8.6,97,None,Snow,Office,Stressed
+2,28-01-2025,27010,1589.82,5.33,1323,6.3,142,Yoga,Rain,Gym,Happy
+2,30-01-2025,24907,3627.97,17.74,1394,6.3,136,Running,Fog,Park,Tired
+2,31-01-2025,16244,3027.38,17.45,1158,4.2,113,Swimming,Snow,Other,Happy
+2,01-02-2025,21670,3280.1,0.19,464,7.0,74,Cycling,Clear,Gym,Tired
+2,01-02-2025,16632,3319.83,1.27,1331,6.8,65,None,Rain,Other,Neutral
+2,02-02-2025,24091,1838.94,12.05,282,5.6,98,Swimming,Fog,Park,Neutral
+2,03-02-2025,500,2922.46,6.74,206,3.6,111,Running,Snow,Other,Tired
+2,04-02-2025,8270,1611.55,19.14,776,0.7,141,Swimming,Rain,Gym,Tired
+2,04-02-2025,5307,3921.99,7.7,909,9.9,146,Cycling,Clear,Gym,Neutral
+2,09-02-2025,22985,3245.68,10.59,718,11.8,129,Swimming,Rain,Home,Neutral
+2,10-02-2025,27173,3078.97,6.68,1004,9.3,156,Running,Rain,Other,Tired
+2,11-02-2025,14957,2499.67,3.39,1299,1.4,179,Swimming,Rain,Park,Stressed
+2,11-02-2025,21011,2806.23,6.01,1044,0.2,120,Running,Fog,Office,Neutral
+2,11-02-2025,14162,1834.24,9.09,805,7.0,134,Cycling,Clear,Office,Neutral
+2,11-02-2025,1419,2760.14,12.04,2,11.7,67,Yoga,Fog,Other,Stressed
+2,13-02-2025,527,2374.57,19.97,128,5.0,172,Cycling,Snow,Home,Tired
+2,15-02-2025,7821,3609.44,4.89,251,0.2,64,Cycling,Fog,Office,Neutral
+2,16-02-2025,7463,3596.46,4.45,1275,8.8,115,Gym Workout,Rain,Park,Stressed
+2,17-02-2025,4810,2583.19,11.73,603,6.1,95,Swimming,Clear,Other,Tired
+2,17-02-2025,27626,3915.44,0.69,1310,1.4,79,Running,Snow,Office,Stressed
+2,20-02-2025,1768,1878.99,17.49,756,9.9,111,Yoga,Snow,Park,Tired
+2,20-02-2025,14780,2367.01,19.95,1148,3.0,109,Running,Clear,Gym,Stressed
+2,20-02-2025,14877,2103.44,9.14,918,3.2,150,None,Rain,Office,Happy
+2,21-02-2025,17136,2455.89,0.65,1185,6.0,72,Swimming,Clear,Gym,Stressed
+2,22-02-2025,14628,3048.39,18.0,116,0.7,105,Swimming,Snow,Office,Happy
+2,23-02-2025,15116,3378.74,11.94,687,3.0,66,Swimming,Clear,Park,Tired
+2,23-02-2025,17550,3280.1,6.48,342,8.8,135,None,Rain,Park,Stressed
+2,24-02-2025,27738,2052.6,10.45,786,0.6,151,Walking,Snow,Office,Happy
+2,24-02-2025,19653,3127.35,11.4,655,9.5,151,Running,Rain,Gym,Neutral
+2,26-02-2025,6030,2512.33,12.05,689,8.4,133,Running,Fog,Home,Happy
+2,26-02-2025,8935,3025.97,6.6,213,11.0,76,Swimming,Clear,Park,Stressed
+2,26-02-2025,5803,2553.98,8.79,1100,10.6,128,Cycling,Snow,Home,Neutral
+2,27-02-2025,28657,2874.97,1.9,506,7.6,166,Gym Workout,Clear,Other,Happy
+2,27-02-2025,21859,2382.06,12.42,443,4.7,161,Swimming,Fog,Home,Stressed
+2,01-03-2025,24844,3060.69,12.26,798,11.6,80,Walking,Fog,Home,Happy
+2,01-03-2025,10925,2203.01,9.85,365,8.3,155,Walking,Fog,Park,Stressed
+2,05-03-2025,3964,2044.03,4.16,477,9.7,71,Swimming,Snow,Gym,Stressed
+2,06-03-2025,6867,3818.26,12.97,979,6.0,144,Yoga,Rain,Gym,Neutral
+2,07-03-2025,26234,1796.91,11.41,1433,10.8,129,Gym Workout,Clear,Park,Stressed
+2,07-03-2025,11158,3929.42,7.97,732,0.4,167,Yoga,Fog,Park,Happy
+2,07-03-2025,7652,3758.99,18.66,1255,4.4,112,None,Snow,Park,Neutral
+2,07-03-2025,9004,1944.38,7.91,733,10.2,135,None,Rain,Gym,Stressed
+2,08-03-2025,6432,3282.49,12.65,767,2.1,159,Walking,Snow,Home,Tired
+2,09-03-2025,24075,2249.7,13.55,1214,3.3,174,Yoga,Fog,Park,Stressed
+2,10-03-2025,19984,1502.48,12.43,1005,9.9,157,None,Fog,Office,Happy
+2,11-03-2025,8292,1963.95,0.45,73,7.8,122,Running,Rain,Park,Stressed
+2,12-03-2025,11088,1938.63,17.75,861,7.6,149,Running,Rain,Office,Tired
+2,14-03-2025,29240,2065.09,12.04,868,3.7,106,Cycling,Rain,Gym,Stressed
+2,14-03-2025,8869,2447.74,6.73,1384,6.5,138,None,Snow,Park,Stressed
+2,14-03-2025,16280,2206.76,14.91,1038,5.1,74,Running,Fog,Home,Tired
+2,15-03-2025,13392,2122.5,2.01,380,9.4,84,Walking,Clear,Gym,Happy
+2,15-03-2025,9687,3068.77,13.1,762,7.4,110,Swimming,Clear,Gym,Neutral
+2,16-03-2025,19144,3171.6,2.97,929,4.5,72,Yoga,Snow,Office,Neutral
+2,17-03-2025,24255,2378.96,7.92,1064,0.3,134,Yoga,Snow,Office,Neutral
+2,19-03-2025,8570,2353.49,19.72,719,0.6,79,Swimming,Clear,Home,Stressed
+2,20-03-2025,20689,3712.68,10.16,496,11.4,135,Gym Workout,Snow,Other,Neutral
+2,20-03-2025,26143,3137.48,16.06,1138,2.1,161,Yoga,Fog,Office,Neutral
+2,20-03-2025,10430,1621.24,19.42,581,0.8,160,Swimming,Fog,Park,Happy
+2,24-03-2025,14923,2004.3,18.97,72,3.3,167,Walking,Fog,Gym,Happy
+2,26-03-2025,10035,2753.88,12.48,938,6.3,170,Swimming,Snow,Gym,Stressed
+2,28-03-2025,1680,3366.69,7.57,1249,6.7,116,None,Rain,Office,Stressed
+2,29-03-2025,15116,3736.32,1.55,971,11.5,101,None,Clear,Park,Stressed
+2,29-03-2025,10192,3154.02,12.26,571,3.2,176,Swimming,Snow,Park,Happy
+2,30-03-2025,976,2193.53,6.36,907,2.4,90,Running,Fog,Office,Happy
+2,30-03-2025,16302,1882.13,15.06,137,6.2,110,Swimming,Rain,Other,Neutral
+2,30-03-2025,8771,2875.44,14.7,979,2.4,129,Walking,Snow,Office,Tired
+2,31-03-2025,8770,3462.95,10.87,26,10.0,133,Running,Clear,Other,Tired
+2,31-03-2025,24764,3403.14,10.5,790,6.9,161,None,Snow,Office,Stressed
+2,01-04-2025,16936,3836.67,4.72,433,1.9,116,Cycling,Fog,Other,Happy
+2,01-04-2025,5192,3082.0,4.4,867,8.9,113,Yoga,Clear,Home,Happy
+2,02-04-2025,28215,2092.52,6.16,1095,8.8,140,Walking,Rain,Office,Happy
+2,04-04-2025,28073,3593.42,0.06,565,8.2,71,Gym Workout,Snow,Office,Happy
+2,04-04-2025,1929,3292.51,6.31,1141,6.4,119,Walking,Clear,Park,Happy
+2,04-04-2025,29967,2362.01,17.61,290,1.8,137,None,Snow,Home,Neutral
+2,05-04-2025,13173,3152.78,14.76,1376,4.8,83,Gym Workout,Snow,Office,Stressed
+2,07-04-2025,18028,2958.27,0.29,380,8.2,86,Gym Workout,Rain,Other,Neutral
+2,07-04-2025,18424,3138.57,9.69,330,5.7,162,Yoga,Rain,Home,Tired
+2,08-04-2025,27252,3037.84,19.67,770,6.4,75,Cycling,Snow,Gym,Neutral
+2,09-04-2025,15523,1502.99,11.31,182,7.8,85,Walking,Rain,Home,Happy
+2,10-04-2025,13607,2036.36,12.67,300,1.3,93,Walking,Fog,Home,Happy
+2,10-04-2025,6224,2270.1,6.94,1052,11.2,115,Yoga,Rain,Other,Neutral
+2,12-04-2025,16783,1714.19,6.34,144,7.0,110,Running,Snow,Other,Neutral
+2,13-04-2025,17660,1590.1,0.3,521,7.8,87,Cycling,Clear,Other,Tired
+2,13-04-2025,16053,3676.4,14.05,141,9.9,63,Gym Workout,Snow,Park,Tired
+2,14-04-2025,23378,1510.66,9.7,371,1.1,121,None,Fog,Park,Tired
+2,15-04-2025,25933,2643.52,10.89,935,9.2,89,Swimming,Clear,Home,Stressed
+2,16-04-2025,4678,2981.21,1.14,925,4.7,145,Walking,Fog,Other,Stressed
+2,16-04-2025,17897,3564.69,1.27,1133,2.2,76,Yoga,Fog,Office,Tired
+2,16-04-2025,3389,1552.65,5.87,72,2.9,167,Gym Workout,Rain,Gym,Neutral
+2,20-04-2025,18431,1665.56,2.91,362,7.1,165,Cycling,Snow,Park,Tired
+2,20-04-2025,1312,1728.34,16.88,184,9.6,81,Swimming,Snow,Office,Tired
+2,22-04-2025,23861,3961.06,0.98,861,4.7,120,Walking,Clear,Home,Neutral
+2,22-04-2025,7353,1884.2,12.16,1260,9.8,147,Gym Workout,Snow,Gym,Tired
+2,23-04-2025,2297,2833.07,5.27,607,1.0,105,Swimming,Clear,Gym,Happy
+2,25-04-2025,17243,2916.1,2.28,222,7.7,61,Running,Snow,Home,Tired
+2,26-04-2025,2560,3101.19,8.44,68,1.1,121,Cycling,Rain,Other,Happy
+2,27-04-2025,24599,1961.92,10.92,380,6.7,91,None,Rain,Park,Neutral
+2,02-05-2025,4640,1695.49,1.93,1218,10.4,90,None,Snow,Park,Neutral
+2,06-05-2025,4985,2756.42,16.81,282,4.9,126,None,Rain,Park,Tired
+2,09-05-2025,6112,2304.24,12.92,977,8.9,152,None,Fog,Park,Neutral
+2,09-05-2025,14665,1565.51,17.48,223,8.0,147,None,Fog,Other,Tired
+2,10-05-2025,21434,3060.43,5.58,687,10.1,149,Gym Workout,Rain,Other,Stressed
+2,10-05-2025,19940,3054.47,15.19,182,11.8,146,Running,Snow,Home,Tired
+2,10-05-2025,23909,1609.3,17.55,521,8.5,158,Swimming,Rain,Gym,Tired
+2,11-05-2025,14123,3509.96,1.42,660,11.3,156,Gym Workout,Snow,Home,Happy
+2,13-05-2025,25590,3434.14,16.09,659,8.9,179,None,Fog,Park,Stressed
+2,14-05-2025,8736,1844.97,3.12,1364,2.5,85,None,Rain,Office,Happy
+2,14-05-2025,28933,2911.44,13.25,1181,1.9,150,Yoga,Clear,Other,Happy
+2,16-05-2025,2961,1694.09,1.24,703,5.3,178,Cycling,Snow,Other,Neutral
+2,16-05-2025,3745,3913.94,14.47,122,4.8,164,Cycling,Rain,Other,Neutral
+2,17-05-2025,18332,3657.92,7.36,911,3.1,133,Gym Workout,Fog,Gym,Happy
+2,17-05-2025,18771,3707.69,12.14,526,8.8,71,Yoga,Rain,Gym,Neutral
+2,17-05-2025,15248,2707.37,11.15,598,11.0,168,Swimming,Fog,Park,Happy
+2,18-05-2025,3713,1577.41,12.06,962,6.4,112,Gym Workout,Fog,Park,Neutral
+2,19-05-2025,7650,3315.78,17.06,962,4.1,178,Gym Workout,Clear,Other,Neutral
+2,19-05-2025,13054,1605.12,6.24,763,2.5,66,Yoga,Rain,Home,Tired
+2,20-05-2025,8671,2584.27,7.07,807,3.9,83,Swimming,Snow,Gym,Happy
+2,20-05-2025,1083,3147.12,6.89,882,1.6,142,Running,Rain,Park,Happy
+2,21-05-2025,18827,3340.77,2.51,277,7.4,92,Yoga,Rain,Office,Neutral
+2,24-05-2025,21299,2441.49,14.93,1360,5.5,135,Gym Workout,Clear,Gym,Happy
+2,27-05-2025,2371,3959.56,9.02,1004,8.9,160,Cycling,Rain,Office,Happy
+2,28-05-2025,19210,3632.61,13.2,323,7.7,161,Yoga,Snow,Office,Stressed
+2,28-05-2025,10499,3258.98,17.73,978,3.9,84,Gym Workout,Fog,Other,Stressed
+2,29-05-2025,6686,1652.02,3.97,389,11.7,61,Swimming,Rain,Park,Happy
+2,30-05-2025,12795,2261.87,12.57,1133,4.1,142,None,Clear,Other,Tired
+2,31-05-2025,4006,2068.87,13.98,589,8.8,72,Yoga,Snow,Home,Neutral
+2,01-06-2025,10932,2727.44,6.98,876,5.7,85,Swimming,Clear,Office,Neutral
+2,01-06-2025,12308,2724.72,5.0,193,9.1,95,Walking,Snow,Park,Stressed
+2,02-06-2025,18163,1531.66,18.84,1183,9.7,177,Swimming,Rain,Park,Stressed
+2,03-06-2025,9963,2410.87,19.01,258,4.0,111,Cycling,Snow,Other,Stressed
+2,05-06-2025,12655,1846.18,4.4,253,9.0,73,Swimming,Rain,Park,Neutral
+2,06-06-2025,3582,3625.13,7.52,1301,10.2,122,None,Clear,Gym,Happy
+2,06-06-2025,14042,1700.68,12.72,853,3.5,62,Swimming,Clear,Other,Tired
+2,07-06-2025,27379,2291.86,16.86,332,5.6,93,Running,Fog,Gym,Tired
+2,07-06-2025,1022,2382.82,17.15,56,3.8,173,Gym Workout,Rain,Park,Happy
+2,08-06-2025,4958,3411.54,9.85,619,9.8,162,Yoga,Rain,Other,Happy
+2,09-06-2025,23237,3811.54,6.02,875,0.5,124,Yoga,Fog,Office,Neutral
+2,09-06-2025,21766,2591.79,2.21,1219,6.0,122,None,Snow,Park,Neutral
+2,11-06-2025,5102,3585.51,1.29,674,3.6,113,Cycling,Snow,Home,Happy
+2,13-06-2025,1406,3200.95,2.81,1182,9.1,96,Walking,Rain,Home,Happy
+2,13-06-2025,12637,2425.36,6.88,43,0.1,88,Swimming,Rain,Park,Happy
+2,15-06-2025,15279,3553.14,9.66,360,11.0,115,Yoga,Clear,Office,Tired
+2,16-06-2025,18512,2283.49,11.44,224,7.3,131,Running,Fog,Other,Happy
+2,17-06-2025,9804,2337.58,13.17,1321,7.1,178,Gym Workout,Rain,Home,Neutral
+2,17-06-2025,4576,3084.73,11.87,655,4.2,71,Swimming,Rain,Gym,Tired
+2,17-06-2025,620,1529.48,0.53,45,10.8,120,Cycling,Rain,Home,Neutral
+2,22-06-2025,10110,3411.79,2.03,87,7.1,107,Running,Snow,Office,Stressed
+2,24-06-2025,21265,2904.53,18.71,323,11.8,118,Swimming,Snow,Gym,Neutral
+2,24-06-2025,419,1737.17,16.7,846,2.0,155,Yoga,Rain,Office,Happy
+2,25-06-2025,15192,3980.13,8.65,1217,6.2,138,None,Rain,Home,Stressed
+2,25-06-2025,14616,2450.43,19.72,420,0.7,105,Running,Snow,Other,Happy
+2,26-06-2025,1160,2980.81,5.38,1363,5.0,70,Swimming,Fog,Other,Tired
+2,01-07-2025,13151,3305.42,1.22,1292,1.9,170,Walking,Clear,Home,Tired
+2,01-07-2025,29381,3419.88,10.31,126,10.0,60,Walking,Rain,Park,Stressed
+2,02-07-2025,29022,2787.95,2.46,270,2.7,77,None,Fog,Gym,Tired
+2,02-07-2025,7921,2760.01,8.67,1094,10.3,153,Walking,Clear,Home,Tired
+2,02-07-2025,7139,3886.79,8.91,1055,10.8,80,Walking,Snow,Office,Neutral
+2,07-07-2025,19403,3566.98,11.57,134,8.3,85,Gym Workout,Snow,Other,Stressed
+2,13-07-2025,12812,2693.66,10.35,36,2.5,155,Running,Clear,Home,Tired
+2,13-07-2025,18857,3442.91,19.88,921,7.2,134,Gym Workout,Rain,Other,Happy
+2,14-07-2025,10999,1585.01,10.29,638,5.4,179,Running,Fog,Other,Tired
+2,15-07-2025,1732,2169.6,4.17,820,7.3,172,None,Clear,Gym,Neutral
+2,15-07-2025,1322,1965.73,1.86,1249,2.3,111,Yoga,Fog,Home,Happy
+2,16-07-2025,7793,3336.57,10.06,635,2.3,179,None,Snow,Park,Stressed
+2,17-07-2025,9279,3533.45,14.47,578,10.8,74,Yoga,Fog,Other,Stressed
+2,19-07-2025,7922,3506.86,18.17,889,9.1,120,Gym Workout,Fog,Other,Stressed
+2,20-07-2025,27248,3394.23,14.97,457,6.7,133,Swimming,Rain,Other,Stressed
+2,20-07-2025,23166,1632.06,15.56,326,4.7,65,Cycling,Clear,Home,Tired
+2,22-07-2025,1008,1540.46,3.12,787,5.9,170,Walking,Clear,Park,Happy
+2,25-07-2025,3418,3554.87,12.27,107,7.7,95,Yoga,Fog,Home,Tired
+2,25-07-2025,2498,2558.33,8.74,1412,6.9,106,Running,Snow,Gym,Tired
+2,26-07-2025,15753,1728.66,6.9,957,4.8,116,Swimming,Snow,Home,Tired
+2,26-07-2025,2524,3354.52,4.9,1275,6.4,145,Walking,Clear,Gym,Happy
+2,26-07-2025,13907,3904.39,2.66,523,8.3,60,Walking,Fog,Park,Happy
+2,26-07-2025,1556,3542.13,1.81,1175,4.8,151,Running,Snow,Home,Stressed
+2,27-07-2025,28189,3872.58,11.2,499,4.1,101,Cycling,Fog,Park,Stressed
+2,29-07-2025,13169,1725.13,11.31,36,1.2,103,Running,Rain,Other,Tired
+2,29-07-2025,22062,2152.05,13.36,69,0.6,166,None,Clear,Other,Stressed
+2,31-07-2025,7198,3607.33,8.38,549,7.0,114,Yoga,Fog,Home,Tired
+2,01-08-2025,1460,2300.53,3.49,1281,4.7,69,Running,Rain,Home,Stressed
+2,01-08-2025,14856,3309.23,5.68,52,1.2,112,Cycling,Clear,Office,Happy
+2,02-08-2025,29305,3320.1,11.35,341,0.2,114,Gym Workout,Snow,Office,Happy
+2,02-08-2025,10447,1811.17,10.58,360,7.6,179,None,Fog,Gym,Stressed
+2,03-08-2025,5826,1513.4,15.93,491,8.0,82,Walking,Fog,Office,Neutral
+2,03-08-2025,28145,3706.72,5.68,953,9.8,98,Gym Workout,Rain,Office,Happy
+2,03-08-2025,351,3750.89,8.55,1280,11.5,108,Cycling,Fog,Home,Tired
+2,04-08-2025,10035,1741.23,1.57,1232,6.6,134,Swimming,Snow,Park,Neutral
+2,04-08-2025,29658,2668.79,18.23,166,1.8,142,Running,Rain,Gym,Tired
+2,04-08-2025,859,3065.76,7.47,348,2.1,99,Cycling,Rain,Gym,Stressed
+2,04-08-2025,7121,2786.77,12.59,458,4.3,129,Yoga,Snow,Gym,Happy
+2,06-08-2025,23694,3386.56,2.94,1336,4.7,88,Walking,Clear,Park,Neutral
+2,08-08-2025,6520,3957.9,19.67,891,6.4,167,Yoga,Rain,Gym,Tired
+2,09-08-2025,29923,1958.07,17.1,1202,2.8,92,Walking,Rain,Office,Neutral
+2,11-08-2025,26728,3948.45,14.5,673,10.1,114,Yoga,Snow,Park,Tired
+2,11-08-2025,15914,1787.07,11.69,211,6.4,138,Running,Fog,Other,Tired
+2,11-08-2025,12924,2900.39,10.51,334,7.2,149,Cycling,Rain,Office,Neutral
+2,12-08-2025,5694,2823.48,18.45,1395,11.2,141,None,Fog,Office,Tired
+2,13-08-2025,15158,3749.76,0.74,114,0.0,173,None,Rain,Home,Happy
+2,13-08-2025,14407,2895.97,0.6,961,6.8,80,Swimming,Fog,Gym,Happy
+2,14-08-2025,29707,3981.66,13.51,881,4.8,156,Swimming,Clear,Gym,Neutral
+2,14-08-2025,15716,1776.45,9.34,298,9.2,104,Yoga,Fog,Home,Neutral
+2,15-08-2025,19041,2706.54,7.56,1295,8.9,132,Cycling,Rain,Other,Stressed
+2,20-08-2025,26291,2083.19,8.26,302,7.8,62,Yoga,Rain,Office,Stressed
+2,20-08-2025,17598,2494.39,13.16,1336,7.5,116,Walking,Clear,Park,Stressed
+2,21-08-2025,24171,3484.52,3.0,802,10.4,73,Swimming,Fog,Gym,Happy
+2,23-08-2025,6336,1960.05,15.97,599,11.3,153,Running,Fog,Office,Tired
+2,23-08-2025,19723,2517.7,1.68,162,6.6,84,Walking,Clear,Home,Stressed
+2,24-08-2025,7103,2664.58,15.2,379,7.1,176,Swimming,Snow,Gym,Happy
+2,24-08-2025,13403,3836.13,19.64,1021,9.9,175,Yoga,Rain,Gym,Happy
+2,25-08-2025,2502,2107.18,5.75,505,5.1,156,Gym Workout,Clear,Other,Happy
+2,25-08-2025,21789,2126.49,7.93,614,8.7,76,Yoga,Clear,Other,Neutral
+2,27-08-2025,4975,1941.02,2.17,702,9.4,126,Running,Snow,Gym,Happy
+2,28-08-2025,29139,3456.68,17.07,1272,7.1,82,Swimming,Snow,Other,Neutral
+2,28-08-2025,25633,2147.05,7.96,1217,2.8,71,Gym Workout,Clear,Park,Neutral
+2,31-08-2025,13861,3596.65,18.13,1000,2.1,85,Swimming,Snow,Gym,Tired
+2,31-08-2025,8959,1703.0,19.34,17,7.7,117,Yoga,Snow,Park,Tired
+2,01-09-2025,9406,2325.74,18.98,1083,8.4,136,None,Clear,Other,Stressed
+2,02-09-2025,7204,3366.45,8.96,674,6.3,82,Cycling,Rain,Home,Neutral
+2,03-09-2025,12343,3806.94,10.72,676,5.3,133,Gym Workout,Snow,Gym,Stressed
+2,03-09-2025,2979,2500.89,10.17,289,7.0,144,Yoga,Fog,Gym,Stressed
+2,04-09-2025,29016,3862.26,15.89,862,3.2,94,Yoga,Rain,Office,Happy
+2,07-09-2025,14799,1551.1,13.06,1044,10.7,164,Running,Rain,Home,Happy
+2,07-09-2025,14160,1833.14,4.92,806,7.6,160,Walking,Clear,Gym,Happy
+2,10-09-2025,27070,3345.5,8.9,1286,0.8,92,Running,Clear,Office,Neutral
+2,11-09-2025,14389,2271.27,5.1,384,3.1,137,Swimming,Snow,Gym,Stressed
+2,11-09-2025,21787,3837.88,19.71,546,10.9,86,Yoga,Rain,Office,Tired
+2,12-09-2025,29450,3037.73,14.93,374,3.6,141,Cycling,Snow,Other,Tired
+2,12-09-2025,20929,3634.56,7.11,27,10.5,80,Cycling,Snow,Gym,Happy
+2,13-09-2025,4142,1860.44,4.38,558,7.3,130,Running,Snow,Office,Tired
+2,15-09-2025,2684,3149.3,5.29,1350,5.7,76,Running,Snow,Gym,Stressed
+2,16-09-2025,18173,2148.12,5.9,591,5.3,106,Swimming,Fog,Other,Tired
+2,17-09-2025,18604,2913.61,3.22,542,1.3,157,Yoga,Clear,Other,Neutral
+2,18-09-2025,23263,1673.97,18.52,656,3.7,172,Swimming,Clear,Office,Tired
+2,18-09-2025,10893,1712.07,17.57,1407,3.4,134,Walking,Fog,Office,Neutral
+2,21-09-2025,17820,3820.42,15.1,371,5.7,103,Walking,Snow,Other,Stressed
+2,22-09-2025,29133,2585.86,4.75,81,4.4,107,Swimming,Snow,Other,Happy
+2,22-09-2025,20606,2761.42,0.55,97,3.9,151,Cycling,Rain,Other,Neutral
+2,23-09-2025,7763,3838.12,4.61,598,7.8,96,None,Fog,Home,Neutral
+2,24-09-2025,20870,2944.94,14.55,975,1.7,121,Yoga,Rain,Home,Stressed
+2,25-09-2025,22549,2122.61,18.41,466,3.5,164,Gym Workout,Rain,Park,Tired
