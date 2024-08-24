@@ -1,0 +1,6 @@
+MoodPredictionModel
+Ticket 1 (Team): Dataset Overview and Understanding
+
+Ticket 2 (Agnel, Vishnu): Data Cleaning
+
+Ticket 3 (Sharath, Jaleel): Exploratory Data Analysis (EDA)
